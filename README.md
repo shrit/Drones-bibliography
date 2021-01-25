@@ -32,6 +32,20 @@
 
 [Flocking algorithm for autonomous flying robots](https://arxiv.org/abs/1310.3601)Csaba Virágh, Gábor Vásárhelyi, Norbert Tarcai, Tamás Szörényi, Gergő Somorjai, Tamás Nepusz, Tamás Vicsek (2014).
 
-[A swarm of flying smartphones](https://ieeexplore.ieee.org/document/7759270/) G. {Loianno} and Y. {Mulgaonkar} and C. {Brunner} and D. {Ahuja} and A. {Ramanandan} and M. {Chari} and S. {Diaz} and V. Kumar
+[A swarm of flying smartphones](https://ieeexplore.ieee.org/document/7759270/) G. Loianno, Y. Mulgaonkar, C. Brunner, D. Ahuja, A. Ramanandan, M. Chari. S. Diaz, V. Kumar (2016).
 
-    
+[Collective motion](https://arxiv.org/abs/1010.5017) T. Vicsek, A. Zafeiris (2012).
+
+[Crazyswarm: A large nano-quadcopter swarm](https://www.researchgate.net/publication/318695162_Crazyswarm_A_large_nano-quadcopter_swarm) J. A. Preiss, W. Honig, G. S. Sukhatme, N. Ayanian (2017).
+
+[Design of small, safe and robust quadrotor swarms](https://ieeexplore.ieee.org/document/7139491) Y. Mulgaonkar, G. Cross, V. Kumar (2015).
+
+[A platform for aerial robotics research and demonstration: The Flying Machine Arena](https://www.sciencedirect.com/science/article/abs/pii/S0957415813002262) S. Lupashin,M. Hehn, M. W. Mueller, A. P. Schoellig, M. Sherback, R. D’Andrea (2014).
+
+[Flocks, herds and schools: A distributed behavioral model](https://dl.acm.org/doi/10.1145/37402.37406) C. W. Reynolds (1987).
+
+[SFly: Swarm of micro flying robots](https://ieeexplore.ieee.org/document/6386281) M. Achtelik, M. Achtelik, Y. Brunet, M. Chli, S. Chatzichristofis, J. Decotignie, K. Doth, F. Fraundorfer, L. Kneip, D. Gurdan, L. Heng, E. Kosmatopoulos, L. Doitsidis, G. H. Lee, S. Lynen, A. Martinelli, L. Meier, M. Pollefeys, D. Piguet, A. Renzaglia, D. Scaramuzza, R. Siegwart, J. Stumpf, P. Tanskanen, C. Troiani, S. Weiss
+
+
+
+
