@@ -18,6 +18,7 @@
 
 [SwarmLab: a Matlab Drone Swarm Simulator](https://arxiv.org/abs/2005.02769) E. Soria, F. Schiano, D. Floreano (2020).
 
+[Evaluation Platform for Micro Aerial Indoor Swarm Robotics](https://www.researchgate.net/publication/343064227_Evaluation_Platform_for_Micro_Aerial_Indoor_Swarm_Robotics) C. Steup, S. Mostaghim, S. Mai (2016).
 
 
 
@@ -74,13 +75,36 @@
 
 [Quadrocopter Trajectory Generation and Control](https://flyingmachinearena.org/wp-content/publications/2011/hehn_dandrea_trajectory_generation_control.pdf) M. Hehn, R. D’Andrea (2011).
 
+[CAPT: Concurrent assignment and planning of trajectories for multiple robots](https://journals.sagepub.com/doi/abs/10.1177/0278364913515307?journalCode=ijra) M. Turpin, N. Michael, V. Kumar (2014).
 
-[CAPT: Concurrent assignment and planning of trajectories for multiple robots] (https://journals.sagepub.com/doi/abs/10.1177/0278364913515307?journalCode=ijra) M. Turpin, N. Michael, V. Kumar (2014).
+[Polynomial Trajectory Planning for Aggressive Quadrotor Flight in Dense Indoor Environments](https://dspace.mit.edu/handle/1721.1/106840) C. Richter, A. Bry, N. Roy (2016).
 
+[Estimation, Control, and Planning for Aggressive Flight With a Small Quadrotor With a Single Camera and IMU](https://ieeexplore.ieee.org/document/7762111) G. Loianno, C. Brunner, G. McGrath and V. Kumar (2017).
+
+[A computationally efficient motion primitive for quadrocoptertrajectory generation](https://flyingmachinearena.org/wp-content/uploads/mueTRO15.pdf) M.W. Mueller, M. Hehn, R. D’Andrea (2015).
+
+[A computationally efficient algorithm for state-to-state quadrocopter trajectory generation and feasibility verification](https://www.semanticscholar.org/paper/A-computationally-efficient-algorithm-for-and-Mueller-Hehn/07dc99fa6e8c6a28e3b0ed88260fe015a8ba034f) M. W. Mueller, Markus Hehn, R. D'Andrea (2013).
 
 ### Quadrotor flight controller design
 
 [Neuroflight: next generation flight control firmware](https://hdl.handle.net/2144/41205) W. Koch, R. Mancuso, A. Bestavros (2019).
+
+[Control of a Quadrotor with Reinforcement Learning](https://arxiv.org/abs/1707.05110) J.Hwangbo, I. Sa, R. Siegwart, M. Hutter (2017).
+
+[PIXHAWK: A micro aerial vehicle design for autonomous flight using onboard computer vision  ](https://www.researchgate.net/publication/257522711_PIXHAWK_A_micro_aerial_vehicle_design_for_autonomous_flight_using_onboard_computer_vision) L. Meier, P. Tanskanen, L. Heng, G. Hee Lee, F. Fraundorfer, M. Pollefeys (2012).
+
+[PIXHAWK: A System for Autonomous Flight using Onboard Computer Vision](http://www-oldurls.inf.ethz.ch/personal/pomarc/pubs/MeierICRA11.pdf) L. Meier, P. Tanskanen, F. Fraundorfer, M. Pollefeys (2011).
+
+[PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms](https://www.semanticscholar.org/paper/PX4%3A-A-node-based-multithreaded-open-source-for-Meier-Honegger/5f47298e5461a9cd29fc69c6393c5a3ad8bfd71a) L. Meier, D. Honegger, M. Pollefeys (2015).
+
+[PID vs LQ control techniques applied to an indoor micro quadrotor](https://ieeexplore.ieee.org/document/1389776) S. Bouabdallah, A. Noth and R. Siegwart (2004).
+
+[Design of a four-rotor aerial robot](https://eprints.qut.edu.au/83375) P. Pounds, R. Mahony, P. Hynes & J. Roberts (2002).
+
+
+### SLAM
+
+[Onboard IMU and monocular vision based control for MAVs in unknown in- and outdoor environments](https://ieeexplore.ieee.org/document/5980343) M. Achtelik, M. Achtelik, S. Weiss, R. Siegwart (2011).
 
 
 
