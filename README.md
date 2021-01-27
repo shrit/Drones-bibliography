@@ -1,14 +1,9 @@
-[Guided Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1709.06011), M. Hüttenrauch, A. Šošić, G. Neumann (2017).
-
-
 [Handbook of Unmanned Aerial Vehicles](https://link.springer.com/referencework/10.1007%2F978-90-481-9707-1) K. P. ValavanisGeorge, J. Vachtsevanos (2014).
-
 
 [CAD2RL: Real Single-Image Flight without a Single Real Image](https://arxiv.org/abs/1611.04201) F. Sadeghi, S. Levine (2017).
 
 [Learning Monocular Reactive UAV Control in Cluttered Natural Environments](https://arxiv.org/abs/1211.1690) S. Ross, N. Melik-Barkhudarov, K. S. Shankar, A. Wendel, D. Dey, J. A. Bagnell, M. Hebert (2012).
 
-[Reinforcement Learning for UAV Attitude Control](https://arxiv.org/abs/1804.04154) W. Koch, R. Mancuso, R. West, A. Bestavros (2018).
 
 ### Quadrotor simulation
 
@@ -20,8 +15,6 @@
 
 [Evaluation Platform for Micro Aerial Indoor Swarm Robotics](https://www.researchgate.net/publication/343064227_Evaluation_Platform_for_Micro_Aerial_Indoor_Swarm_Robotics) C. Steup, S. Mostaghim, S. Mai (2016).
 
-
-
 ### Quadrotors swarms
 
 [The GRASP Multiple Micro UAV Testbed](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.1687&rep=rep1&type=pdf) N. Michael, D. Mellinger, Q. Lindsey, V. Kumar (2010).
@@ -30,11 +23,9 @@
 
 [Towards Open-Source , Printable Pico-Quadrotors](https://www.semanticscholar.org/paper/Towards-Open-Source-%2C-Printable-Pico-Quadrotors-Mulgaonkar-Kumar/b1575b2293d6933cd8f0cc8e828af4418d707f89) Y. Mulgaonkar, V. Kumar (2014).
 
-
 [Optimized flocking of autonomous drones in confined environments](https://robotics.sciencemag.org/content/3/20/eaat3536)G. Vásárhelyi, C. Virágh, G. Somorjai, T. Nepusz, A. E. Eiben, T. Vicsek (2018).
 
 [Outdoor flocking and formation flight with autonomous aerial robots](https://arxiv.org/abs/1402.3588) Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Norbert Tarcai, Tamás Szörényi, T. Nepusz, T. Vicsek (2014)
-
 
 [Flocking algorithm for autonomous flying robots](https://arxiv.org/abs/1310.3601)Csaba Virágh, Gábor Vásárhelyi, Norbert Tarcai, Tamás Szörényi, Gergő Somorjai, Tamás Nepusz, Tamás Vicsek (2014).
 
@@ -66,6 +57,9 @@
 
 [Fast and In Sync: Periodic Swarm Patterns for Quadrotors](https://arxiv.org/abs/1810.03572) X. Du, C. E. Luis, M. Vukosavljev, A. P. Schoellig
 
+[Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1807.06613) M. Hüttenrauch, A. Šošić, G. Neumann (2019).
+
+[Guided Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1709.06011), M. Hüttenrauch, A. Šošić, G. Neumann (2017).
 
 ### Trajectory generation for Quadrotor
 
@@ -91,6 +85,8 @@
 
 [Control of a Quadrotor with Reinforcement Learning](https://arxiv.org/abs/1707.05110) J.Hwangbo, I. Sa, R. Siegwart, M. Hutter (2017).
 
+[Reinforcement Learning for UAV Attitude Control](https://arxiv.org/abs/1804.04154) W. Koch, R. Mancuso, R. West, A. Bestavros (2018).
+
 [PIXHAWK: A micro aerial vehicle design for autonomous flight using onboard computer vision  ](https://www.researchgate.net/publication/257522711_PIXHAWK_A_micro_aerial_vehicle_design_for_autonomous_flight_using_onboard_computer_vision) L. Meier, P. Tanskanen, L. Heng, G. Hee Lee, F. Fraundorfer, M. Pollefeys (2012).
 
 [PIXHAWK: A System for Autonomous Flight using Onboard Computer Vision](http://www-oldurls.inf.ethz.ch/personal/pomarc/pubs/MeierICRA11.pdf) L. Meier, P. Tanskanen, F. Fraundorfer, M. Pollefeys (2011).
@@ -101,10 +97,22 @@
 
 [Design of a four-rotor aerial robot](https://eprints.qut.edu.au/83375) P. Pounds, R. Mahony, P. Hynes & J. Roberts (2002).
 
+[DroNet: Learning to Fly by Driving](http://rpg.ifi.uzh.ch/dronet.html) A. Loquercio, A.I. Maqueda, C.R. Del Blanco, D. Scaramuzza (2018).
+
+
 
 ### SLAM
 
 [Onboard IMU and monocular vision based control for MAVs in unknown in- and outdoor environments](https://ieeexplore.ieee.org/document/5980343) M. Achtelik, M. Achtelik, S. Weiss, R. Siegwart (2011).
+
+[Vision-Based Autonomous Mapping and Exploration Using a Quadrotor MAV](https://www.researchgate.net/publication/261353707_Vision-Based_Autonomous_Mapping_and_Exploration_Using_a_Quadrotor_MAV) F. Fraundorfer, L. Heng, D. Honegger, G. H. Lee, L. Meier, P. Tanskanen, M. Pollefeys (2012).
+
+
+
+### Survey
+
+[A Survey on Aerial Swarm Robotics](https://ieeexplore.ieee.org/document/8424838) S. Chung, A. A. Paranjape, P. Dames, S. Shen, V. Kumar (2018).
+
 
 
 
