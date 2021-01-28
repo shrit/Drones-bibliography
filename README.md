@@ -15,6 +15,9 @@
 
 [Evaluation Platform for Micro Aerial Indoor Swarm Robotics](https://www.researchgate.net/publication/343064227_Evaluation_Platform_for_Micro_Aerial_Indoor_Swarm_Robotics) C. Steup, S. Mostaghim, S. Mai (2016).
 
+[OpenUAV: A UAV Testbed for the CPS and Robotics Community](https://www.researchgate.net/publication/327191426_OpenUAV_A_UAV_Testbed_for_the_CPS_and_Robotics_Community) M. Schmittle, A. Lukina, L. Vacek, J. Das, C. P. Buskirk, S. Rees, J. Sztipanovits, R. Grosu, V. Kumar (2018).
+
+
 ### Quadrotors swarms
 
 [The GRASP Multiple Micro UAV Testbed](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.1687&rep=rep1&type=pdf) N. Michael, D. Mellinger, Q. Lindsey, V. Kumar (2010).
@@ -60,6 +63,11 @@
 [Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1807.06613) M. Hüttenrauch, A. Šošić, G. Neumann (2019).
 
 [Guided Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1709.06011), M. Hüttenrauch, A. Šošić, G. Neumann (2017).
+
+[The influence of limited visual sensing on the Reynolds ﬂocking algorithm](https://infoscience.epfl.ch/record/264152?ln=fr) E. Soria, F. Schiano, D. Floreano (2019).
+
+
+
 
 ### Trajectory generation for Quadrotor
 
@@ -115,5 +123,36 @@
 
 
 
+### Model Predictive control (MPC)
+
+[Nonlinear Model Predictive Control for Multi-Micro Aerial Vehicle Robust Collision Avoidance](https://arxiv.org/abs/1703.01164) M. Kamel, J. Alonso-Mora, R. Siegwart, J. Nieto (2017).
 
 
+### Positioning systems
+
+[3-D relative positioning sensor for indoor flying robots](https://www.researchgate.net/profile/Timothy_Stirling/publication/49964919_3-D_Relative_Positioning_Sensor_for_Indoor_Collective_Flying_Robots/links/58efb0f8a6fdcc25c8525730/3-D-Relative-Positioning-Sensor-for-Indoor-Collective-Flying-Robots.pdf) J. F. Roberts, T. Stirling. J. C. Zufferey, D. Floreano (2011).
+
+[Audio-based localization for swarms of micro air vehicles](https://ieeexplore.ieee.org/document/6907551) M. Basiri, F. Schill, D. Floreano and P. U. Lima (2014).
+
+[Audio-based Positioning and Target Localization for Swarms of Micro Aerial Vehicles](https://infoscience.epfl.ch/record/206769?ln=fr) M. Basiri (2015).
+
+[Audio-based Relative Positioning System forMultiple Micro Air Vehicle Systems](http://www.roboticsproceedings.org/rss09/p02.pdf) M. Basiri, F. Schill, D. Floreano, P. U.Lima (2014).
+
+[Practical Multirobot Localization System](https://link.springer.com/article/10.1007/s10846-014-0041-x) T. Krajník, M. Nitsche, J. Faigl, P. Vaněk, M. Saska, L. Přeučil, T. Duckett, M. Mejail (2014).
+
+
+### Quadrotors applications
+aaQuadrocopter Ball  Juggling](https://flyingmachinearena.org/wp-content/uploads/2012/fma-publications/QuadrocopterBallJuggling.pdf) M. Muller, Se. Lupashin and Ra. D’Andrea (2012).
+
+[Quadrocopter Pole Acrobatics](https://idsc.ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/People/bdario/brescianini_hehn_dandrea_pole_acrobatics.pdf) D. Brescianini, M. Hehn, R. D’Andrea (2013).
+
+[Building tensile structures with flying machines](https://www.semanticscholar.org/paper/Building-tensile-structures-with-flying-machines-Augugliaro-Mirjan/0bf536c0ec3dd56117e95faea78c1e012bd5affd) F. Augugliaro, A. Mirjan, F. Gramazio, M. Kohler, R. D'Andrea (2013).
+
+[Localization, Grasping, and Transportation of Magnetic Objects by a Team of MAVs in Challenging Desert-Like Environments](https://ieeexplore.ieee.org/document/8276269)
+ G. Loianno, V. Spurny, J. Thomas, T. Baca, D. Thakur, D. Hert, R. Penicka, T. Krajnik, A. Zhou, A. Cho, M. Saska, V. Kumar (2018).
+ 
+[The application of small unmanned aerial systems for precision agriculture: a review](https://link.springer.com/article/10.1007/s11119-012-9274-5) C. Zhang, John M. Kovacs (2012).
+
+
+ 
+ 
