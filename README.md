@@ -107,6 +107,8 @@
 
 [DroNet: Learning to Fly by Driving](http://rpg.ifi.uzh.ch/dronet.html) A. Loquercio, A.I. Maqueda, C.R. Del Blanco, D. Scaramuzza (2018).
 
+[An Open Source and Open Hardware Embedded Metric Optical FlowCMOS Camera for Indoor and Outdoor Applications](https://people.inf.ethz.ch/pomarc/pubs/HoneggerICRA13.pdf) D. Honegger, L. Meier, P. Tanskanen, M. Pollefeys (2013).
+
 
 
 ### SLAM
@@ -114,6 +116,20 @@
 [Onboard IMU and monocular vision based control for MAVs in unknown in- and outdoor environments](https://ieeexplore.ieee.org/document/5980343) M. Achtelik, M. Achtelik, S. Weiss, R. Siegwart (2011).
 
 [Vision-Based Autonomous Mapping and Exploration Using a Quadrotor MAV](https://www.researchgate.net/publication/261353707_Vision-Based_Autonomous_Mapping_and_Exploration_Using_a_Quadrotor_MAV) F. Fraundorfer, L. Heng, D. Honegger, G. H. Lee, L. Meier, P. Tanskanen, M. Pollefeys (2012).
+
+[Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios](https://arxiv.org/abs/1709.06310) A. R. Vidal, H. Rebecq, T. Horstschaefer, D. Scaramuzza (2017).
+
+[Cooperative localization and mapping of MAVs using RGB-D sensors](https://ieeexplore.ieee.org/document/7139761) G. Loianno, J. Thomas and V. Kumar (2015).
+
+[MAV-swarms: Unmanned aerial vehicles stabilized along a given path using onboard relative localization](https://www.researchgate.net/publication/282922149_MAV-swarms_Unmanned_aerial_vehicles_stabilized_along_a_given_path_using_onboard_relative_localization) M. Saska (2015).
+
+[Camera-Based Navigation of a Low-Cost Quadrocopter](https://jakobengel.github.io/pdf/engel12iros.pdf) J. Engel, J. Sturm, D. Cremers (2012).
+
+[System for deployment of groups of unmanned micro aerial vehicles in GPS-denied environments using onboard visual relative localization](https://core.ac.uk/reader/42585470) M. Saska, T. Baca, J. Thomas, J. Chudoba, L. Preucil, T. Krajnik, J. Faigl, G. Loianno, V. Kumar (2016).
+
+[A System for the Design and Development of Vision-based Multi-robot Quadrotor Swarm](http://oa.upm.es/45797/1/INVE_MEM_2014_246004.pdf) J. L. Sanchez-Lopez, J. Pestana, P. de la Puente, R. Suarez-Fernandezand P. Campoy ().
+
+[MAV Navigation through Indoor Corridors Using Optical Flow](http://rpg.ifi.uzh.ch/docs/ICRA10_zingg.pdf) S. Zingg, D. Scaramuzza, S. Weiss, R.Siegwart (2010).
 
 
 
@@ -140,6 +156,12 @@
 
 [Practical Multirobot Localization System](https://link.springer.com/article/10.1007/s10846-014-0041-x) T. Krajník, M. Nitsche, J. Faigl, P. Vaněk, M. Saska, L. Přeučil, T. Duckett, M. Mejail (2014).
 
+[On-Board Relative Bearing Estimation for Teams of Drones Using Sound](https://infoscience.epfl.ch/record/217516?ln=fr) M. Basiri, F. Schill, P. Lima, D. Floreano (2016).
+
+[On-board Communication-based Relative Localization for CollisionAvoidance in Micro Air Vehicle teams](https://arxiv.org/abs/1609.08811) M. Coppola, K. McGuire, K.Y.W. Scheper, G. C.H.E. de Croon (2017).
+
+[A robot self-localization system using one-way ultra-wideband communication  ](https://www.semanticscholar.org/paper/A-robot-self-localization-system-using-one-way-Ledergerber-Hamer/b3e7132192d3131a9ff4ee21833eda574197bbe3) A. Ledergerber, M. Hamer, R. D'Andrea (2015).
+
 
 ### Quadrotors applications
 aaQuadrocopter Ball  Juggling](https://flyingmachinearena.org/wp-content/uploads/2012/fma-publications/QuadrocopterBallJuggling.pdf) M. Muller, Se. Lupashin and Ra. D’Andrea (2012).
@@ -153,6 +175,8 @@ aaQuadrocopter Ball  Juggling](https://flyingmachinearena.org/wp-content/uploads
  
 [The application of small unmanned aerial systems for precision agriculture: a review](https://link.springer.com/article/10.1007/s11119-012-9274-5) C. Zhang, John M. Kovacs (2012).
 
+[Documentation of dark areas of large historical buildings by a formation of unmanned aerial vehicles using model predictive control](https://www.semanticscholar.org/paper/Documentation-of-dark-areas-of-large-historical-by-Saska-Kr%C3%A1tk%C3%BD/ee46ba99bebf912809ef0435dd1755860f0479e6) M. Saska, V. Krátký, V. Spurný, T. Báca (2017).
 
- 
- 
+[Opportunities and Challenges with Autonomous Micro Aerial Vehicles](https://link.springer.com/chapter/10.1007/978-3-319-29363-9_3) V. Kumar, N. Michael (2016).
+
+
