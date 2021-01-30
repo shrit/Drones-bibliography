@@ -109,6 +109,20 @@
 
 [An Open Source and Open Hardware Embedded Metric Optical FlowCMOS Camera for Indoor and Outdoor Applications](https://people.inf.ethz.ch/pomarc/pubs/HoneggerICRA13.pdf) D. Honegger, L. Meier, P. Tanskanen, M. Pollefeys (2013).
 
+[Design and Control of an Indoor Micro Quadrotor](https://www.researchgate.net/publication/4076717_Design_and_Control_of_an_Indoor_Micro_Quadrotor) S. Bouabdallah, P. Murrieri, R. Siegwart (2004).
+
+[Design and control of quadrotors with application to autonomous flying](https://infoscience.epfl.ch/record/95939?ln=fr) S. Bouabdallah (2007).
+
+[Fundamentals of Small Unmanned Aircraft Flight](https://www.semanticscholar.org/paper/Fundamentals-of-Small-Unmanned-Aircraft-Flight-Aileron/12df304fe865a9fc6c5a674e08f5a760e8448c65)J. D. Barton (2012).
+
+[Energy-efficient Autonomous Four-rotor Flying Robot Controlled at 1 kHz](https://www.researchgate.net/publication/224705216_Energy-efficient_Autonomous_Four-rotor_Flying_Robot_Controlled_at_1_kHz) D. Gurdan, J. Stumpf, M. Achtelik, K. Doth, G. Hirzinger, D. Rus (2007).
+
+[A Scripted Printable Quadrotor: Rapid Design and Fabrication of a Folded MAV](https://www.semanticscholar.org/paper/A-Scripted-Printable-Quadrotor%3A-Rapid-Design-and-of-Mehta-Rus/b4c8b98d19105472bdb4aad83cc573d6fb5770ba) A. Mehta, D. Rus, K. Mohta, Yash Mulgaonkar, M. Piccoli, V. Kumar (2013).
+
+[Computational Multicopter Design](https://cdfg.mit.edu/assets/files/copter.pdf) T. Du, A. Schulz, B. Zhu, B. Bickel, W. Matusik (2013).
+
+[The Navigation and Control technology inside the AR.Drone micro UAV](https://www.sciencedirect.com/science/article/pii/S1474667016438188) P.J. Bristeau, F. Callou, D. Vissière, N.Petit (2011).
+
 
 
 ### SLAM
@@ -143,6 +157,11 @@
 
 [Nonlinear Model Predictive Control for Multi-Micro Aerial Vehicle Robust Collision Avoidance](https://arxiv.org/abs/1703.01164) M. Kamel, J. Alonso-Mora, R. Siegwart, J. Nieto (2017).
 
+[Motion planning and control of formations of micro aerial vehicles](https://www.semanticscholar.org/paper/Motion-planning-and-control-of-formations-of-micro-Saska-Kasl/a8b2b317e16e609d0478dbbe339fac2760bda4a4) M. Saska, Z. Kasl, L. Preucil (2014).
+
+[Embedded Model Predictive Control of Unmanned Micro Aerial Vehicles](https://www.researchgate.net/publication/307599370_Embedded_Model_Predictive_Control_of_Unmanned_Micro_Aerial_Vehicles) T. Báča, G. Loianno, M. Saska (2016).
+
+
 
 ### Positioning systems
 
@@ -161,6 +180,9 @@
 [On-board Communication-based Relative Localization for CollisionAvoidance in Micro Air Vehicle teams](https://arxiv.org/abs/1609.08811) M. Coppola, K. McGuire, K.Y.W. Scheper, G. C.H.E. de Croon (2017).
 
 [A robot self-localization system using one-way ultra-wideband communication  ](https://www.semanticscholar.org/paper/A-robot-self-localization-system-using-one-way-Ledergerber-Hamer/b3e7132192d3131a9ff4ee21833eda574197bbe3) A. Ledergerber, M. Hamer, R. D'Andrea (2015).
+
+[Drone-aided Localization in LoRa IoT Networks](https://arxiv.org/abs/2004.03852) V. Delafontaine, F. Schiano, G. Cocco, A. Rusu, D. Floreano (2020).
+
 
 
 ### Quadrotors applications
