@@ -1,204 +1,114 @@
-[Handbook of Unmanned Aerial Vehicles](https://link.springer.com/referencework/10.1007%2F978-90-481-9707-1) K. P. ValavanisGeorge, J. Vachtsevanos (2014).
-
-[CAD2RL: Real Single-Image Flight without a Single Real Image](https://arxiv.org/abs/1611.04201) F. Sadeghi, S. Levine (2017).
-
-[Learning Monocular Reactive UAV Control in Cluttered Natural Environments](https://arxiv.org/abs/1211.1690) S. Ross, N. Melik-Barkhudarov, K. S. Shankar, A. Wendel, D. Dey, J. A. Bagnell, M. Hebert (2012).
-
+* [Handbook of Unmanned Aerial Vehicles](https://link.springer.com/referencework/10.1007%2F978-90-481-9707-1) K. P. ValavanisGeorge, J. Vachtsevanos (2014).
+* [CAD2RL: Real Single-Image Flight without a Single Real Image](https://arxiv.org/abs/1611.04201) F. Sadeghi, S. Levine (2017).
+* [Learning Monocular Reactive UAV Control in Cluttered Natural Environments](https://arxiv.org/abs/1211.1690) S. Ross, N. Melik-Barkhudarov, K. S. Shankar, A. Wendel, D. Dey, J. A. Bagnell, M. Hebert (2012).
 
 ### Quadrotor simulation
 
 [Comprehensive Simulation of Quadrotor UAVs Using ROS and Gazebo](https://www.researchgate.net/publication/262247993_Comprehensive_Simulation_of_Quadrotor_UAVs_Using_ROS_and_Gazebo)     J. Meyer, A. Sendobry, S. Kohlbrecher, U. Klingauf, O. von Stryk (2012).
-
 [RotorS – A Modular Gazebo MAV Simulator Framework](https://www.researchgate.net/publication/309291237_RotorS_-_A_Modular_Gazebo_MAV_Simulator_Framework) F. Furrer, M. Burri M. Achtelik, R.Siegwart (2016).
-
 [SwarmLab: a Matlab Drone Swarm Simulator](https://arxiv.org/abs/2005.02769) E. Soria, F. Schiano, D. Floreano (2020).
-
 [Evaluation Platform for Micro Aerial Indoor Swarm Robotics](https://www.researchgate.net/publication/343064227_Evaluation_Platform_for_Micro_Aerial_Indoor_Swarm_Robotics) C. Steup, S. Mostaghim, S. Mai (2016).
-
 [OpenUAV: A UAV Testbed for the CPS and Robotics Community](https://www.researchgate.net/publication/327191426_OpenUAV_A_UAV_Testbed_for_the_CPS_and_Robotics_Community) M. Schmittle, A. Lukina, L. Vacek, J. Das, C. P. Buskirk, S. Rees, J. Sztipanovits, R. Grosu, V. Kumar (2018).
 
-
 ### Quadrotors swarms
-
-[The GRASP Multiple Micro UAV Testbed](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.1687&rep=rep1&type=pdf) N. Michael, D. Mellinger, Q. Lindsey, V. Kumar (2010).
-
-[Towards A Swarm of Agile Micro Quadrotors](http://roboticsproceedings.org/rss08/p28.pdf) A. Kushleyev, D. Mellinger, V. Kumar (2013).
-
-[Towards Open-Source , Printable Pico-Quadrotors](https://www.semanticscholar.org/paper/Towards-Open-Source-%2C-Printable-Pico-Quadrotors-Mulgaonkar-Kumar/b1575b2293d6933cd8f0cc8e828af4418d707f89) Y. Mulgaonkar, V. Kumar (2014).
-
-[Optimized flocking of autonomous drones in confined environments](https://robotics.sciencemag.org/content/3/20/eaat3536)G. Vásárhelyi, C. Virágh, G. Somorjai, T. Nepusz, A. E. Eiben, T. Vicsek (2018).
-
-[Outdoor flocking and formation flight with autonomous aerial robots](https://arxiv.org/abs/1402.3588) Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Norbert Tarcai, Tamás Szörényi, T. Nepusz, T. Vicsek (2014)
-
-[Flocking algorithm for autonomous flying robots](https://arxiv.org/abs/1310.3601)Csaba Virágh, Gábor Vásárhelyi, Norbert Tarcai, Tamás Szörényi, Gergő Somorjai, Tamás Nepusz, Tamás Vicsek (2014).
-
-[A swarm of flying smartphones](https://ieeexplore.ieee.org/document/7759270/) G. Loianno, Y. Mulgaonkar, C. Brunner, D. Ahuja, A. Ramanandan, M. Chari. S. Diaz, V. Kumar (2016).
-
-[Collective motion](https://arxiv.org/abs/1010.5017) T. Vicsek, A. Zafeiris (2012).
-
-[Crazyswarm: A large nano-quadcopter swarm](https://www.researchgate.net/publication/318695162_Crazyswarm_A_large_nano-quadcopter_swarm) J. A. Preiss, W. Honig, G. S. Sukhatme, N. Ayanian (2017).
-
-[Design of small, safe and robust quadrotor swarms](https://ieeexplore.ieee.org/document/7139491) Y. Mulgaonkar, G. Cross, V. Kumar (2015).
-
-[A platform for aerial robotics research and demonstration: The Flying Machine Arena](https://www.sciencedirect.com/science/article/abs/pii/S0957415813002262) S. Lupashin,M. Hehn, M. W. Mueller, A. P. Schoellig, M. Sherback, R. D’Andrea (2014).
-
-[Flocks, herds and schools: A distributed behavioral model](https://dl.acm.org/doi/10.1145/37402.37406) C. W. Reynolds (1987).
-
-[SFly: Swarm of micro flying robots](https://ieeexplore.ieee.org/document/6386281) M. Achtelik, M. Achtelik, Y. Brunet, M. Chli, S. Chatzichristofis, J. Decotignie, K. Doth, F. Fraundorfer, L. Kneip, D. Gurdan, L. Heng, E. Kosmatopoulos, L. Doitsidis, G. H. Lee, S. Lynen, A. Martinelli, L. Meier, M. Pollefeys, D. Piguet, A. Renzaglia, D. Scaramuzza, R. Siegwart, J. Stumpf, P. Tanskanen, C. Troiani, S. Weiss
-
-[Visual Inertial Odometry Swarm: An Autonomous Swarm of Vision-Based Quadrotors](https://ieeexplore.ieee.org/document/8276634) A. Weinstein, A. Cho, G. Loianno, V. Kumar (2018)
-
-[Novel Type of Phase Transition in a System of Self-Driven Particles](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.1226) T. Vicsek, A. Czirók, E. Ben-Jacob, I. Cohen, O. Shochet (1995)
-
-[Learning Vision-based Cohesive Flight in Drone Swarms](https://arxiv.org/abs/1809.00543) F. Schilling, J. Lecoeur, F. Schiano, D. Floreano (2018).
-
-[Learning Vision-based Flight in Drone Swarms by Imitation](https://arxiv.org/abs/1908.02999) F. Schilling, J. Lecoeur, F. Schiano, D. Floreano (2019).
-
-[Flocking for Multi-Agent Dynamic Systems:Algorithms and Theory](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.7027&rep=rep1&type=pdf) Reza Olfati-Saber (2006).
-
-[Formations of unmanned micro aerial vehicles led by migrating virtual leader](https://ieeexplore.ieee.org/document/7838801)M. Saska, T. Baca and D. Hert (2016).
-
-[Fast and In Sync: Periodic Swarm Patterns for Quadrotors](https://arxiv.org/abs/1810.03572) X. Du, C. E. Luis, M. Vukosavljev, A. P. Schoellig
-
-[Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1807.06613) M. Hüttenrauch, A. Šošić, G. Neumann (2019).
-
-[Guided Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1709.06011), M. Hüttenrauch, A. Šošić, G. Neumann (2017).
-
-[The influence of limited visual sensing on the Reynolds ﬂocking algorithm](https://infoscience.epfl.ch/record/264152?ln=fr) E. Soria, F. Schiano, D. Floreano (2019).
-
-
-
+* [The GRASP Multiple Micro UAV Testbed](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.1687&rep=rep1&type=pdf) N. Michael, D. Mellinger, Q. Lindsey, V. Kumar (2010).
+* [Towards A Swarm of Agile Micro Quadrotors](http://roboticsproceedings.org/rss08/p28.pdf) A. Kushleyev, D. Mellinger, V. Kumar (2013).
+* [Towards Open-Source , Printable Pico-Quadrotors](https://www.semanticscholar.org/paper/Towards-Open-Source-%2C-Printable-Pico-Quadrotors-Mulgaonkar-Kumar/b1575b2293d6933cd8f0cc8e828af4418d707f89) Y. Mulgaonkar, V. Kumar (2014).
+* [Optimized flocking of autonomous drones in confined environments](https://robotics.sciencemag.org/content/3/20/eaat3536)G. Vásárhelyi, C. Virágh, G. Somorjai, T. Nepusz, A. E. Eiben, T. Vicsek (2018).
+* [Outdoor flocking and formation flight with autonomous aerial robots](https://arxiv.org/abs/1402.3588) Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Norbert Tarcai, Tamás Szörényi, T. Nepusz, T. Vicsek (2014)
+* [Flocking algorithm for autonomous flying robots](https://arxiv.org/abs/1310.3601)Csaba Virágh, Gábor Vásárhelyi, Norbert Tarcai, Tamás Szörényi, Gergő Somorjai, Tamás Nepusz, Tamás Vicsek (2014).
+* [A swarm of flying smartphones](https://ieeexplore.ieee.org/document/7759270/) G. Loianno, Y. Mulgaonkar, C. Brunner, D. Ahuja, A. Ramanandan, M. Chari. S. Diaz, V. Kumar (2016).
+* [Collective motion](https://arxiv.org/abs/1010.5017) T. Vicsek, A. Zafeiris (2012).
+* [Crazyswarm: A large nano-quadcopter swarm](https://www.researchgate.net/publication/318695162_Crazyswarm_A_large_nano-quadcopter_swarm) J. A. Preiss, W. Honig, G. S. Sukhatme, N. Ayanian (2017).
+* [Design of small, safe and robust quadrotor swarms](https://ieeexplore.ieee.org/document/7139491) Y. Mulgaonkar, G. Cross, V. Kumar (2015).
+* [A platform for aerial robotics research and demonstration: The Flying Machine Arena](https://www.sciencedirect.com/science/article/abs/pii/S0957415813002262) S. Lupashin,M. Hehn, M. W. Mueller, A. P. Schoellig, M. Sherback, R. D’Andrea (2014).
+* [Flocks, herds and schools: A distributed behavioral model](https://dl.acm.org/doi/10.1145/37402.37406) C. W. Reynolds (1987).
+* [SFly: Swarm of micro flying robots](https://ieeexplore.ieee.org/document/6386281) M. Achtelik, M. Achtelik, Y. Brunet, M. Chli, S. Chatzichristofis, J. Decotignie, K. Doth, F. Fraundorfer, L. Kneip, D. Gurdan, L. Heng, E. Kosmatopoulos, L. Doitsidis, G. H. Lee, S. Lynen, A. Martinelli, L. Meier, M. Pollefeys, D. Piguet, A. Renzaglia, D. Scaramuzza, R. Siegwart, J. Stumpf, P. Tanskanen, C. Troiani, S. Weiss
+* [Visual Inertial Odometry Swarm: An Autonomous Swarm of Vision-Based Quadrotors](https://ieeexplore.ieee.org/document/8276634) A. Weinstein, A. Cho, G. Loianno, V. Kumar (2018)
+* [Novel Type of Phase Transition in a System of Self-Driven Particles](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.1226) T. Vicsek, A. Czirók, E. Ben-Jacob, I. Cohen, O. Shochet (1995)
+* [Learning Vision-based Cohesive Flight in Drone Swarms](https://arxiv.org/abs/1809.00543) F. Schilling, J. Lecoeur, F. Schiano, D. Floreano (2018).
+* [Learning Vision-based Flight in Drone Swarms by Imitation](https://arxiv.org/abs/1908.02999) F. Schilling, J. Lecoeur, F. Schiano, D. Floreano (2019).
+* [Flocking for Multi-Agent Dynamic Systems:Algorithms and Theory](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.7027&rep=rep1&type=pdf) Reza Olfati-Saber (2006).
+* [Formations of unmanned micro aerial vehicles led by migrating virtual leader](https://ieeexplore.ieee.org/document/7838801)M. Saska, T. Baca and D. Hert (2016).
+* [Fast and In Sync: Periodic Swarm Patterns for Quadrotors](https://arxiv.org/abs/1810.03572) X. Du, C. E. Luis, M. Vukosavljev, A. P. Schoellig
+* [Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1807.06613) M. Hüttenrauch, A. Šošić, G. Neumann (2019).
+* [Guided Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1709.06011), M. Hüttenrauch, A. Šošić, G. Neumann (2017).
+* [The influence of limited visual sensing on the Reynolds ﬂocking algorithm](https://infoscience.epfl.ch/record/264152?ln=fr) E. Soria, F. Schiano, D. Floreano (2019).
 
 ### Trajectory generation for Quadrotor
 
-[Real-Time Trajectory Generation for Quadrocopters](https://ieeexplore.ieee.org/document/7128399) M. Hehn and R. D’Andrea (2015).
-
-[Trajectory Design and Control for Aggressive Formation Flight with Quadrotors](http://www.isrr-2011.org/ISRR-2011/Program_files/Papers/Turpin-ISRR-2011.pdf) M. Turpin, N. Michael, V. Kumar (2012).
-
-[Quadrocopter Trajectory Generation and Control](https://flyingmachinearena.org/wp-content/publications/2011/hehn_dandrea_trajectory_generation_control.pdf) M. Hehn, R. D’Andrea (2011).
-
-[CAPT: Concurrent assignment and planning of trajectories for multiple robots](https://journals.sagepub.com/doi/abs/10.1177/0278364913515307?journalCode=ijra) M. Turpin, N. Michael, V. Kumar (2014).
-
-[Polynomial Trajectory Planning for Aggressive Quadrotor Flight in Dense Indoor Environments](https://dspace.mit.edu/handle/1721.1/106840) C. Richter, A. Bry, N. Roy (2016).
-
-[Estimation, Control, and Planning for Aggressive Flight With a Small Quadrotor With a Single Camera and IMU](https://ieeexplore.ieee.org/document/7762111) G. Loianno, C. Brunner, G. McGrath and V. Kumar (2017).
-
-[A computationally efficient motion primitive for quadrocoptertrajectory generation](https://flyingmachinearena.org/wp-content/uploads/mueTRO15.pdf) M.W. Mueller, M. Hehn, R. D’Andrea (2015).
-
-[A computationally efficient algorithm for state-to-state quadrocopter trajectory generation and feasibility verification](https://www.semanticscholar.org/paper/A-computationally-efficient-algorithm-for-and-Mueller-Hehn/07dc99fa6e8c6a28e3b0ed88260fe015a8ba034f) M. W. Mueller, Markus Hehn, R. D'Andrea (2013).
+* [Real-Time Trajectory Generation for Quadrocopters](https://ieeexplore.ieee.org/document/7128399) M. Hehn and R. D’Andrea (2015).
+* [Trajectory Design and Control for Aggressive Formation Flight with Quadrotors](http://www.isrr-2011.org/ISRR-2011/Program_files/Papers/Turpin-ISRR-2011.pdf) M. Turpin, N. Michael, V. Kumar (2012).
+* [Quadrocopter Trajectory Generation and Control](https://flyingmachinearena.org/wp-content/publications/2011/hehn_dandrea_trajectory_generation_control.pdf) M. Hehn, R. D’Andrea (2011).
+* [CAPT: Concurrent assignment and planning of trajectories for multiple robots](https://journals.sagepub.com/doi/abs/10.1177/0278364913515307?journalCode=ijra) M. Turpin, N. Michael, V. Kumar (2014).
+* [Polynomial Trajectory Planning for Aggressive Quadrotor Flight in Dense Indoor Environments](https://dspace.mit.edu/handle/1721.1/106840) C. Richter, A. Bry, N. Roy (2016).
+* [Estimation, Control, and Planning for Aggressive Flight With a Small Quadrotor With a Single Camera and IMU](https://ieeexplore.ieee.org/document/7762111) G. Loianno, C. Brunner, G. McGrath and V. Kumar (2017).
+* [A computationally efficient motion primitive for quadrocoptertrajectory generation](https://flyingmachinearena.org/wp-content/uploads/mueTRO15.pdf) M.W. Mueller, M. Hehn, R. D’Andrea (2015).
+* [A computationally efficient algorithm for state-to-state quadrocopter trajectory generation and feasibility verification](https://www.semanticscholar.org/paper/A-computationally-efficient-algorithm-for-and-Mueller-Hehn/07dc99fa6e8c6a28e3b0ed88260fe015a8ba034f) M. W. Mueller, Markus Hehn, R. D'Andrea (2013).
 
 ### Quadrotor flight controller design
 
-[Neuroflight: next generation flight control firmware](https://hdl.handle.net/2144/41205) W. Koch, R. Mancuso, A. Bestavros (2019).
-
-[Control of a Quadrotor with Reinforcement Learning](https://arxiv.org/abs/1707.05110) J.Hwangbo, I. Sa, R. Siegwart, M. Hutter (2017).
-
-[Reinforcement Learning for UAV Attitude Control](https://arxiv.org/abs/1804.04154) W. Koch, R. Mancuso, R. West, A. Bestavros (2018).
-
-[PIXHAWK: A micro aerial vehicle design for autonomous flight using onboard computer vision  ](https://www.researchgate.net/publication/257522711_PIXHAWK_A_micro_aerial_vehicle_design_for_autonomous_flight_using_onboard_computer_vision) L. Meier, P. Tanskanen, L. Heng, G. Hee Lee, F. Fraundorfer, M. Pollefeys (2012).
-
-[PIXHAWK: A System for Autonomous Flight using Onboard Computer Vision](http://www-oldurls.inf.ethz.ch/personal/pomarc/pubs/MeierICRA11.pdf) L. Meier, P. Tanskanen, F. Fraundorfer, M. Pollefeys (2011).
-
-[PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms](https://www.semanticscholar.org/paper/PX4%3A-A-node-based-multithreaded-open-source-for-Meier-Honegger/5f47298e5461a9cd29fc69c6393c5a3ad8bfd71a) L. Meier, D. Honegger, M. Pollefeys (2015).
-
-[PID vs LQ control techniques applied to an indoor micro quadrotor](https://ieeexplore.ieee.org/document/1389776) S. Bouabdallah, A. Noth and R. Siegwart (2004).
-
-[Design of a four-rotor aerial robot](https://eprints.qut.edu.au/83375) P. Pounds, R. Mahony, P. Hynes & J. Roberts (2002).
-
-[DroNet: Learning to Fly by Driving](http://rpg.ifi.uzh.ch/dronet.html) A. Loquercio, A.I. Maqueda, C.R. Del Blanco, D. Scaramuzza (2018).
-
-[An Open Source and Open Hardware Embedded Metric Optical FlowCMOS Camera for Indoor and Outdoor Applications](https://people.inf.ethz.ch/pomarc/pubs/HoneggerICRA13.pdf) D. Honegger, L. Meier, P. Tanskanen, M. Pollefeys (2013).
-
-[Design and Control of an Indoor Micro Quadrotor](https://www.researchgate.net/publication/4076717_Design_and_Control_of_an_Indoor_Micro_Quadrotor) S. Bouabdallah, P. Murrieri, R. Siegwart (2004).
-
-[Design and control of quadrotors with application to autonomous flying](https://infoscience.epfl.ch/record/95939?ln=fr) S. Bouabdallah (2007).
-
-[Fundamentals of Small Unmanned Aircraft Flight](https://www.semanticscholar.org/paper/Fundamentals-of-Small-Unmanned-Aircraft-Flight-Aileron/12df304fe865a9fc6c5a674e08f5a760e8448c65)J. D. Barton (2012).
-
-[Energy-efficient Autonomous Four-rotor Flying Robot Controlled at 1 kHz](https://www.researchgate.net/publication/224705216_Energy-efficient_Autonomous_Four-rotor_Flying_Robot_Controlled_at_1_kHz) D. Gurdan, J. Stumpf, M. Achtelik, K. Doth, G. Hirzinger, D. Rus (2007).
-
-[A Scripted Printable Quadrotor: Rapid Design and Fabrication of a Folded MAV](https://www.semanticscholar.org/paper/A-Scripted-Printable-Quadrotor%3A-Rapid-Design-and-of-Mehta-Rus/b4c8b98d19105472bdb4aad83cc573d6fb5770ba) A. Mehta, D. Rus, K. Mohta, Yash Mulgaonkar, M. Piccoli, V. Kumar (2013).
-
-[Computational Multicopter Design](https://cdfg.mit.edu/assets/files/copter.pdf) T. Du, A. Schulz, B. Zhu, B. Bickel, W. Matusik (2013).
-
-[The Navigation and Control technology inside the AR.Drone micro UAV](https://www.sciencedirect.com/science/article/pii/S1474667016438188) P.J. Bristeau, F. Callou, D. Vissière, N.Petit (2011).
-
-
+* [Neuroflight: next generation flight control firmware](https://hdl.handle.net/2144/41205) W. Koch, R. Mancuso, A. Bestavros (2019).
+* [Control of a Quadrotor with Reinforcement Learning](https://arxiv.org/abs/1707.05110) J.Hwangbo, I. Sa, R. Siegwart, M. Hutter (2017).
+* [Reinforcement Learning for UAV Attitude Control](https://arxiv.org/abs/1804.04154) W. Koch, R. Mancuso, R. West, A. Bestavros (2018).
+* [PIXHAWK: A micro aerial vehicle design for autonomous flight using onboard computer vision  ](https://www.researchgate.net/publication/257522711_PIXHAWK_A_micro_aerial_vehicle_design_for_autonomous_flight_using_onboard_computer_vision) L. Meier, P. Tanskanen, L. Heng, G. Hee Lee, F. Fraundorfer, M. Pollefeys (2012).
+* [PIXHAWK: A System for Autonomous Flight using Onboard Computer Vision](http://www-oldurls.inf.ethz.ch/personal/pomarc/pubs/MeierICRA11.pdf) L. Meier, P. Tanskanen, F. Fraundorfer, M. Pollefeys (2011).
+* [PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms](https://www.semanticscholar.org/paper/PX4%3A-A-node-based-multithreaded-open-source-for-Meier-Honegger/5f47298e5461a9cd29fc69c6393c5a3ad8bfd71a) L. Meier, D. Honegger, M. Pollefeys (2015).
+* [PID vs LQ control techniques applied to an indoor micro quadrotor](https://ieeexplore.ieee.org/document/1389776) S. Bouabdallah, A. Noth and R. Siegwart (2004).
+* [Design of a four-rotor aerial robot](https://eprints.qut.edu.au/83375) P. Pounds, R. Mahony, P. Hynes & J. Roberts (2002).
+* [DroNet: Learning to Fly by Driving](http://rpg.ifi.uzh.ch/dronet.html) A. Loquercio, A.I. Maqueda, C.R. Del Blanco, D. Scaramuzza (2018).
+* [An Open Source and Open Hardware Embedded Metric Optical FlowCMOS Camera for Indoor and Outdoor Applications](https://people.inf.ethz.ch/pomarc/pubs/HoneggerICRA13.pdf) D. Honegger, L. Meier, P. Tanskanen, M. Pollefeys (2013).
+* [Design and Control of an Indoor Micro Quadrotor](https://www.researchgate.net/publication/4076717_Design_and_Control_of_an_Indoor_Micro_Quadrotor) S. Bouabdallah, P. Murrieri, R. Siegwart (2004).
+* [Design and control of quadrotors with application to autonomous flying](https://infoscience.epfl.ch/record/95939?ln=fr) S. Bouabdallah (2007).
+* [Fundamentals of Small Unmanned Aircraft Flight](https://www.semanticscholar.org/paper/Fundamentals-of-Small-Unmanned-Aircraft-Flight-Aileron/12df304fe865a9fc6c5a674e08f5a760e8448c65)J. D. Barton (2012).
+* [Energy-efficient Autonomous Four-rotor Flying Robot Controlled at 1 kHz](https://www.researchgate.net/publication/224705216_Energy-efficient_Autonomous_Four-rotor_Flying_Robot_Controlled_at_1_kHz) D. Gurdan, J. Stumpf, M. Achtelik, K. Doth, G. Hirzinger, D. Rus (2007).
+* [A Scripted Printable Quadrotor: Rapid Design and Fabrication of a Folded MAV](https://www.semanticscholar.org/paper/A-Scripted-Printable-Quadrotor%3A-Rapid-Design-and-of-Mehta-Rus/b4c8b98d19105472bdb4aad83cc573d6fb5770ba) A. Mehta, D. Rus, K. Mohta, Yash Mulgaonkar, M. Piccoli, V. Kumar (2013).
+* [Computational Multicopter Design](https://cdfg.mit.edu/assets/files/copter.pdf) T. Du, A. Schulz, B. Zhu, B. Bickel, W. Matusik (2013).
+* [The Navigation and Control technology inside the AR.Drone micro UAV](https://www.sciencedirect.com/science/article/pii/S1474667016438188) P.J. Bristeau, F. Callou, D. Vissière, N.Petit (2011).
 
 ### SLAM
 
-[Onboard IMU and monocular vision based control for MAVs in unknown in- and outdoor environments](https://ieeexplore.ieee.org/document/5980343) M. Achtelik, M. Achtelik, S. Weiss, R. Siegwart (2011).
-
-[Vision-Based Autonomous Mapping and Exploration Using a Quadrotor MAV](https://www.researchgate.net/publication/261353707_Vision-Based_Autonomous_Mapping_and_Exploration_Using_a_Quadrotor_MAV) F. Fraundorfer, L. Heng, D. Honegger, G. H. Lee, L. Meier, P. Tanskanen, M. Pollefeys (2012).
-
-[Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios](https://arxiv.org/abs/1709.06310) A. R. Vidal, H. Rebecq, T. Horstschaefer, D. Scaramuzza (2017).
-
-[Cooperative localization and mapping of MAVs using RGB-D sensors](https://ieeexplore.ieee.org/document/7139761) G. Loianno, J. Thomas and V. Kumar (2015).
-
-[MAV-swarms: Unmanned aerial vehicles stabilized along a given path using onboard relative localization](https://www.researchgate.net/publication/282922149_MAV-swarms_Unmanned_aerial_vehicles_stabilized_along_a_given_path_using_onboard_relative_localization) M. Saska (2015).
-
-[Camera-Based Navigation of a Low-Cost Quadrocopter](https://jakobengel.github.io/pdf/engel12iros.pdf) J. Engel, J. Sturm, D. Cremers (2012).
-
-[System for deployment of groups of unmanned micro aerial vehicles in GPS-denied environments using onboard visual relative localization](https://core.ac.uk/reader/42585470) M. Saska, T. Baca, J. Thomas, J. Chudoba, L. Preucil, T. Krajnik, J. Faigl, G. Loianno, V. Kumar (2016).
-
-[A System for the Design and Development of Vision-based Multi-robot Quadrotor Swarm](http://oa.upm.es/45797/1/INVE_MEM_2014_246004.pdf) J. L. Sanchez-Lopez, J. Pestana, P. de la Puente, R. Suarez-Fernandezand P. Campoy ().
-
-[MAV Navigation through Indoor Corridors Using Optical Flow](http://rpg.ifi.uzh.ch/docs/ICRA10_zingg.pdf) S. Zingg, D. Scaramuzza, S. Weiss, R.Siegwart (2010).
-
-
+* [Onboard IMU and monocular vision based control for MAVs in unknown in- and outdoor environments](https://ieeexplore.ieee.org/document/5980343) M. Achtelik, M. Achtelik, S. Weiss, R. Siegwart (2011).
+* [Vision-Based Autonomous Mapping and Exploration Using a Quadrotor MAV](https://www.researchgate.net/publication/261353707_Vision-Based_Autonomous_Mapping_and_Exploration_Using_a_Quadrotor_MAV) F. Fraundorfer, L. Heng, D. Honegger, G. H. Lee, L. Meier, P. Tanskanen, M. Pollefeys (2012).
+* [Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios](https://arxiv.org/abs/1709.06310) A. R. Vidal, H. Rebecq, T. Horstschaefer, D. Scaramuzza (2017).
+* [Cooperative localization and mapping of MAVs using RGB-D sensors](https://ieeexplore.ieee.org/document/7139761) G. Loianno, J. Thomas and V. Kumar (2015).
+* [MAV-swarms: Unmanned aerial vehicles stabilized along a given path using onboard relative localization](https://www.researchgate.net/publication/282922149_MAV-swarms_Unmanned_aerial_vehicles_stabilized_along_a_given_path_using_onboard_relative_localization) M. Saska (2015).
+* [Camera-Based Navigation of a Low-Cost Quadrocopter](https://jakobengel.github.io/pdf/engel12iros.pdf) J. Engel, J. Sturm, D. Cremers (2012).
+* [System for deployment of groups of unmanned micro aerial vehicles in GPS-denied environments using onboard visual relative localization](https://core.ac.uk/reader/42585470) M. Saska, T. Baca, J. Thomas, J. Chudoba, L. Preucil, T. Krajnik, J. Faigl, G. Loianno, V. Kumar (2016).
+* [A System for the Design and Development of Vision-based Multi-robot Quadrotor Swarm](http://oa.upm.es/45797/1/INVE_MEM_2014_246004.pdf) J. L. Sanchez-Lopez, J. Pestana, P. de la Puente, R. Suarez-Fernandezand P. Campoy ().
+* [MAV Navigation through Indoor Corridors Using Optical Flow](http://rpg.ifi.uzh.ch/docs/ICRA10_zingg.pdf) S. Zingg, D. Scaramuzza, S. Weiss, R.Siegwart (2010).
 
 ### Survey
 
 [A Survey on Aerial Swarm Robotics](https://ieeexplore.ieee.org/document/8424838) S. Chung, A. A. Paranjape, P. Dames, S. Shen, V. Kumar (2018).
 
-
-
 ### Model Predictive control (MPC)
 
 [Nonlinear Model Predictive Control for Multi-Micro Aerial Vehicle Robust Collision Avoidance](https://arxiv.org/abs/1703.01164) M. Kamel, J. Alonso-Mora, R. Siegwart, J. Nieto (2017).
-
 [Motion planning and control of formations of micro aerial vehicles](https://www.semanticscholar.org/paper/Motion-planning-and-control-of-formations-of-micro-Saska-Kasl/a8b2b317e16e609d0478dbbe339fac2760bda4a4) M. Saska, Z. Kasl, L. Preucil (2014).
-
 [Embedded Model Predictive Control of Unmanned Micro Aerial Vehicles](https://www.researchgate.net/publication/307599370_Embedded_Model_Predictive_Control_of_Unmanned_Micro_Aerial_Vehicles) T. Báča, G. Loianno, M. Saska (2016).
-
-
 
 ### Positioning systems
 
 [3-D relative positioning sensor for indoor flying robots](https://www.researchgate.net/profile/Timothy_Stirling/publication/49964919_3-D_Relative_Positioning_Sensor_for_Indoor_Collective_Flying_Robots/links/58efb0f8a6fdcc25c8525730/3-D-Relative-Positioning-Sensor-for-Indoor-Collective-Flying-Robots.pdf) J. F. Roberts, T. Stirling. J. C. Zufferey, D. Floreano (2011).
 
 [Audio-based localization for swarms of micro air vehicles](https://ieeexplore.ieee.org/document/6907551) M. Basiri, F. Schill, D. Floreano and P. U. Lima (2014).
-
 [Audio-based Positioning and Target Localization for Swarms of Micro Aerial Vehicles](https://infoscience.epfl.ch/record/206769?ln=fr) M. Basiri (2015).
-
 [Audio-based Relative Positioning System forMultiple Micro Air Vehicle Systems](http://www.roboticsproceedings.org/rss09/p02.pdf) M. Basiri, F. Schill, D. Floreano, P. U.Lima (2014).
-
 [Practical Multirobot Localization System](https://link.springer.com/article/10.1007/s10846-014-0041-x) T. Krajník, M. Nitsche, J. Faigl, P. Vaněk, M. Saska, L. Přeučil, T. Duckett, M. Mejail (2014).
-
 [On-Board Relative Bearing Estimation for Teams of Drones Using Sound](https://infoscience.epfl.ch/record/217516?ln=fr) M. Basiri, F. Schill, P. Lima, D. Floreano (2016).
-
 [On-board Communication-based Relative Localization for CollisionAvoidance in Micro Air Vehicle teams](https://arxiv.org/abs/1609.08811) M. Coppola, K. McGuire, K.Y.W. Scheper, G. C.H.E. de Croon (2017).
-
 [A robot self-localization system using one-way ultra-wideband communication  ](https://www.semanticscholar.org/paper/A-robot-self-localization-system-using-one-way-Ledergerber-Hamer/b3e7132192d3131a9ff4ee21833eda574197bbe3) A. Ledergerber, M. Hamer, R. D'Andrea (2015).
-
 [Drone-aided Localization in LoRa IoT Networks](https://arxiv.org/abs/2004.03852) V. Delafontaine, F. Schiano, G. Cocco, A. Rusu, D. Floreano (2020).
 
-
-
 ### Quadrotors applications
-aaQuadrocopter Ball  Juggling](https://flyingmachinearena.org/wp-content/uploads/2012/fma-publications/QuadrocopterBallJuggling.pdf) M. Muller, Se. Lupashin and Ra. D’Andrea (2012).
 
-[Quadrocopter Pole Acrobatics](https://idsc.ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/People/bdario/brescianini_hehn_dandrea_pole_acrobatics.pdf) D. Brescianini, M. Hehn, R. D’Andrea (2013).
-
-[Building tensile structures with flying machines](https://www.semanticscholar.org/paper/Building-tensile-structures-with-flying-machines-Augugliaro-Mirjan/0bf536c0ec3dd56117e95faea78c1e012bd5affd) F. Augugliaro, A. Mirjan, F. Gramazio, M. Kohler, R. D'Andrea (2013).
-
-[Localization, Grasping, and Transportation of Magnetic Objects by a Team of MAVs in Challenging Desert-Like Environments](https://ieeexplore.ieee.org/document/8276269)
- G. Loianno, V. Spurny, J. Thomas, T. Baca, D. Thakur, D. Hert, R. Penicka, T. Krajnik, A. Zhou, A. Cho, M. Saska, V. Kumar (2018).
- 
-[The application of small unmanned aerial systems for precision agriculture: a review](https://link.springer.com/article/10.1007/s11119-012-9274-5) C. Zhang, John M. Kovacs (2012).
-
-[Documentation of dark areas of large historical buildings by a formation of unmanned aerial vehicles using model predictive control](https://www.semanticscholar.org/paper/Documentation-of-dark-areas-of-large-historical-by-Saska-Kr%C3%A1tk%C3%BD/ee46ba99bebf912809ef0435dd1755860f0479e6) M. Saska, V. Krátký, V. Spurný, T. Báca (2017).
-
-[Opportunities and Challenges with Autonomous Micro Aerial Vehicles](https://link.springer.com/chapter/10.1007/978-3-319-29363-9_3) V. Kumar, N. Michael (2016).
+* [Quadrocopter Ball Juggling](https://flyingmachinearena.org/wp-content/uploads/2012/fma-publications/QuadrocopterBallJuggling.pdf) M. Muller, Se. Lupashin and Ra. D’Andrea (2012).
+* [Quadrocopter Pole Acrobatics](https://idsc.ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/People/bdario/brescianini_hehn_dandrea_pole_acrobatics.pdf) D. Brescianini, M. Hehn, R. D’Andrea (2013).
+* [Building tensile structures with flying machines](https://www.semanticscholar.org/paper/Building-tensile-structures-with-flying-machines-Augugliaro-Mirjan/0bf536c0ec3dd56117e95faea78c1e012bd5affd) F. Augugliaro, A. Mirjan, F. Gramazio, M. Kohler, R. D'Andrea (2013).
+* [Localization, Grasping, and Transportation of Magnetic Objects by a Team of MAVs in Challenging Desert-Like Environments](https://ieeexplore.ieee.org/document/8276269) G. Loianno, V. Spurny, J. Thomas, T. Baca, D. Thakur, D. Hert, R. Penicka, T. Krajnik, A. Zhou, A. Cho, M. Saska, V. Kumar (2018).
+* [The application of small unmanned aerial systems for precision agriculture: a review](https://link.springer.com/article/10.1007/s11119-012-9274-5) C. Zhang, John M. Kovacs (2012).
+* [Documentation of dark areas of large historical buildings by a formation of unmanned aerial vehicles using model predictive control](https://www.semanticscholar.org/paper/Documentation-of-dark-areas-of-large-historical-by-Saska-Kr%C3%A1tk%C3%BD/ee46ba99bebf912809ef0435dd1755860f0479e6) M. Saska, V. Krátký, V. Spurný, T. Báca (2017).
+* [Opportunities and Challenges with Autonomous Micro Aerial Vehicles](https://link.springer.com/chapter/10.1007/978-3-319-29363-9_3) V. Kumar, N. Michael (2016).
 
 
