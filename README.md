@@ -73,16 +73,22 @@
 * [System for deployment of groups of unmanned micro aerial vehicles in GPS-denied environments using onboard visual relative localization](https://core.ac.uk/reader/42585470) M. Saska, T. Baca, J. Thomas, J. Chudoba, L. Preucil, T. Krajnik, J. Faigl, G. Loianno, V. Kumar (2016).
 * [A System for the Design and Development of Vision-based Multi-robot Quadrotor Swarm](http://oa.upm.es/45797/1/INVE_MEM_2014_246004.pdf) J. L. Sanchez-Lopez, J. Pestana, P. de la Puente, R. Suarez-Fernandezand P. Campoy ().
 * [MAV Navigation through Indoor Corridors Using Optical Flow](http://rpg.ifi.uzh.ch/docs/ICRA10_zingg.pdf) S. Zingg, D. Scaramuzza, S. Weiss, R.Siegwart (2010).
-
+* [Optimal surveillance coverage for teams of micro aerial vehicles in GPS-denied environments using onboard vision](https://link.springer.com/article/10.1007/s10514-012-9292-1)L. Doitsidis, S. Weiss, A. Renzaglia, M. W. Achtelik, E. Kosmatopoulos, R. Siegwart, D. Scaramuzza (2012).
+* [UAV Formation Flight Based on Nonlinear Model Predictive Control](https://www.researchgate.net/publication/258382890_UAV_Formation_Flight_Based_on_Nonlinear_Model_Predictive_Control)Z. Chao, S.L. Zhou, L. Ming, W.G. Zhang (2012). 
+ 
 ### Survey
-
 * [A Survey on Aerial Swarm Robotics](https://ieeexplore.ieee.org/document/8424838) S. Chung, A. A. Paranjape, P. Dames, S. Shen, V. Kumar (2018).
 
 ### Model Predictive control (MPC)
-
 * [Nonlinear Model Predictive Control for Multi-Micro Aerial Vehicle Robust Collision Avoidance](https://arxiv.org/abs/1703.01164) M. Kamel, J. Alonso-Mora, R. Siegwart, J. Nieto (2017).
 * [Motion planning and control of formations of micro aerial vehicles](https://www.semanticscholar.org/paper/Motion-planning-and-control-of-formations-of-micro-Saska-Kasl/a8b2b317e16e609d0478dbbe339fac2760bda4a4) M. Saska, Z. Kasl, L. Preucil (2014).
 * [Embedded Model Predictive Control of Unmanned Micro Aerial Vehicles](https://www.researchgate.net/publication/307599370_Embedded_Model_Predictive_Control_of_Unmanned_Micro_Aerial_Vehicles) T. Báča, G. Loianno, M. Saska (2016).
+* [Nonlinear Model Predictive Formation Flight](https://ieeexplore.ieee.org/document/5109714) J. Shin and H. J. Kim (2009).
+
+### Particle Swarm Optimization (PSO)
+* [Autonomous deployment of swarms of micro-aerial vehicles in cooperative surveillance](https://www.semanticscholar.org/paper/Autonomous-deployment-of-swarms-of-micro-aerial-in-Saska-Chudoba/d05a0cba702ed85540ea0a973f03a6d47a743fe3) M. Saska, J. Chudoba, L. Precil, J. Thomas, G. Loianno, A. Tresnak, V. Vonásek, V. Kumar (2014).
+* [Swarm Distribution and Deployment for CooperativeSurveillance by Micro-Aerial Vehicles](https://www.semanticscholar.org/paper/Swarm-Distribution-and-Deployment-for-Cooperative-Saska-Von%C3%A1sek/8d1f919e90e7dcd600c4b1cfa18ee6c1a765bddb) M. Saska, Vojtech Vonásek, J. Chudoba, Justin Thomas, Giuseppe Loianno, V. Kumar (2016).
+
 
 ### Positioning systems
 * [3-D relative positioning sensor for indoor flying robots](https://www.researchgate.net/profile/Timothy_Stirling/publication/49964919_3-D_Relative_Positioning_Sensor_for_Indoor_Collective_Flying_Robots/links/58efb0f8a6fdcc25c8525730/3-D-Relative-Positioning-Sensor-for-Indoor-Collective-Flying-Robots.pdf) J. F. Roberts, T. Stirling. J. C. Zufferey, D. Floreano (2011).
