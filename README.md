@@ -75,9 +75,11 @@
 * [MAV Navigation through Indoor Corridors Using Optical Flow](http://rpg.ifi.uzh.ch/docs/ICRA10_zingg.pdf) S. Zingg, D. Scaramuzza, S. Weiss, R.Siegwart (2010).
 * [Optimal surveillance coverage for teams of micro aerial vehicles in GPS-denied environments using onboard vision](https://link.springer.com/article/10.1007/s10514-012-9292-1)L. Doitsidis, S. Weiss, A. Renzaglia, M. W. Achtelik, E. Kosmatopoulos, R. Siegwart, D. Scaramuzza (2012).
 * [UAV Formation Flight Based on Nonlinear Model Predictive Control](https://www.researchgate.net/publication/258382890_UAV_Formation_Flight_Based_on_Nonlinear_Model_Predictive_Control)Z. Chao, S.L. Zhou, L. Ming, W.G. Zhang (2012). 
- 
+* [Visual tracking and following of a quadrocopter by another quadrocopter](https://ieeexplore.ieee.org/document/6385635) K. E. Wenzel, A. Masselli and A. Zell (2012).
+* [Vision-Controlled Micro Flying Robots From System Design to Autonomous Navigation and Mapping in GPS-Denied Environments](https://www.researchgate.net/publication/261512796_Vision-Controlled_Micro_Flying_Robots_From_System_Design_to_Autonomous_Navigation_and_Mapping_in_GPS-Denied_Environments) D. Scaramuzza, M. C. Achtelik, L. Doitsidis, F. Fraundorfer, E. Kosmatopoulos, A. Martinelli, M. W. Achtelik, M. Chli, S. Chatzichristofis, L. Kneip, D. Gurdan, L. Heng, G. Hee Lee, S. Lynen, L. Meier, M. Pollefeys, A. Renzaglia, R. Siegwart, J. C. Stumpf, P. Tanskanen, C. Troiani, S. Weiss
 ### Survey
 * [A Survey on Aerial Swarm Robotics](https://ieeexplore.ieee.org/document/8424838) S. Chung, A. A. Paranjape, P. Dames, S. Shen, V. Kumar (2018).
+* [Distributed Processing Applications for UAV/drones: A Survey](https://www.researchgate.net/publication/267811645_Distributed_Processing_Applications_for_UAVdrones_A_Survey) G. Chmaj, H. Selvaraj (2014).
 
 ### Model Predictive control (MPC)
 * [Nonlinear Model Predictive Control for Multi-Micro Aerial Vehicle Robust Collision Avoidance](https://arxiv.org/abs/1703.01164) M. Kamel, J. Alonso-Mora, R. Siegwart, J. Nieto (2017).
@@ -100,6 +102,12 @@
 * [On-board Communication-based Relative Localization for CollisionAvoidance in Micro Air Vehicle teams](https://arxiv.org/abs/1609.08811) M. Coppola, K. McGuire, K.Y.W. Scheper, G. C.H.E. de Croon (2017).
 * [A robot self-localization system using one-way ultra-wideband communication  ](https://www.semanticscholar.org/paper/A-robot-self-localization-system-using-one-way-Ledergerber-Hamer/b3e7132192d3131a9ff4ee21833eda574197bbe3) A. Ledergerber, M. Hamer, R. D'Andrea (2015).
 * [Drone-aided Localization in LoRa IoT Networks](https://arxiv.org/abs/2004.03852) V. Delafontaine, F. Schiano, G. Cocco, A. Rusu, D. Floreano (2020).
+* [Visual Tracking and Control of a Quadcopter Using a Stereo Camera System and Inertial Sensors](https://www.researchgate.net/publication/228962857_Visual_Tracking_and_Control_of_a_Quadcopter_Using_a_Stereo_Camera_System_and_Inertial_Sensors) M. Achtelik, T. Zhang, K. Kuhnlenz , M. Buss (2009).
+
+### Quadrotos landing
+* [Vision-based Control of a Quadrotor for Perching on Lines](https://ieeexplore.ieee.org/document/6907309) K. Mohta, V. Kumar and K. Daniilidis (2014).
+* [A Controller for Autonomous Landing of AR.Drone](http://robotics.fel.cvut.cz/pair14/wp-content/uploads/2014/09/pair14_submission-hrasko.pdf) R. Barták, A. Hraško, D. Obdržálek (2014).
+* [Deep Reinforcement Learning Strategy for UAV Autonomous Landing on a Moving Platform](https://www.semanticscholar.org/paper/A-Deep-Reinforcement-Learning-Strategy-for-UAV-on-a-Rodriguez-Ramos-Sampedro/86d5f469f0f541f0b2223d2d3e80f22fb1d66af7) A. Rodriguez-Ramos, C. Sampedro, H. Bavle, P. D. L. Puente, P. Campoy (2019).
 
 ### Quadrotors applications
 
@@ -110,5 +118,6 @@
 * [The application of small unmanned aerial systems for precision agriculture: a review](https://link.springer.com/article/10.1007/s11119-012-9274-5) C. Zhang, John M. Kovacs (2012).
 * [Documentation of dark areas of large historical buildings by a formation of unmanned aerial vehicles using model predictive control](https://www.semanticscholar.org/paper/Documentation-of-dark-areas-of-large-historical-by-Saska-Kr%C3%A1tk%C3%BD/ee46ba99bebf912809ef0435dd1755860f0479e6) M. Saska, V. Krátký, V. Spurný, T. Báca (2017).
 * [Opportunities and Challenges with Autonomous Micro Aerial Vehicles](https://link.springer.com/chapter/10.1007/978-3-319-29363-9_3) V. Kumar, N. Michael (2016).
-
+* [Detecting, localizing, and tracking an unknown number of moving targets using a team of mobile robots](https://journals.sagepub.com/doi/10.1177/0278364917709507) P. Dames, Pratap Tokekar, V. Kumar (2017).
+* [The use of unmanned aerial vehicles for an interdisciplinary undergraduate education: Solving quadrotors limitations](https://ieeexplore.ieee.org/document/7044443) C. Molina et al. (2014).
 
