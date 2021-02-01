@@ -63,6 +63,14 @@
 * [Computational Multicopter Design](https://cdfg.mit.edu/assets/files/copter.pdf) T. Du, A. Schulz, B. Zhu, B. Bickel, W. Matusik (2013).
 * [The Navigation and Control technology inside the AR.Drone micro UAV](https://www.sciencedirect.com/science/article/pii/S1474667016438188) P.J. Bristeau, F. Callou, D. Vissière, N.Petit (2011).
 
+### Swarm of UAV's and UGV's 
+#### using MPC
+* [Navigation, localization and stabilization of formations of unmanned aerial and ground vehicles](https://www.researchgate.net/publication/261429814_Navigation_localization_and_stabilization_of_formations_of_unmanned_aerial_and_ground_vehicles) M. Saska et al (2013).
+* [Coordination and navigation of heterogeneous MAV–UGV formations localized by a ‘hawk-eye’-like approach under a model predictive control scheme](https://www.semanticscholar.org/paper/Coordination-and-navigation-of-heterogeneous-by-a-a-Saska-Von%C3%A1sek/653e83fab826459a6a1af7c0495716740e234a49) M. Saska, V. Vonásek, T. Krajník, L. Preucil (2014).
+* [Complex manoeuvres of heterogeneous MAV-UGV formations using a model predictive control](https://www.semanticscholar.org/paper/Complex-manoeuvres-of-heterogeneous-MAV-UGV-using-a-Spurn%C3%BD-B%C3%A1ca/45d6a5b0492d163c982b5aef11778b4f106eed7b) V. Spurný, T. Báca, M. Saska (2016).
+#### vision based
+* [A vision-guided autonomous quadrotor in an air-ground multi-robot system](https://www.semanticscholar.org/paper/A-vision-guided-autonomous-quadrotor-in-an-system-Li-Zhang/8b96bd403222b0a6d763c7d07888a346948e2770) W. Li, T. Zhang, K. Kühnlenz (2011).
+
 ### SLAM
 * [Onboard IMU and monocular vision based control for MAVs in unknown in- and outdoor environments](https://ieeexplore.ieee.org/document/5980343) M. Achtelik, M. Achtelik, S. Weiss, R. Siegwart (2011).
 * [Vision-Based Autonomous Mapping and Exploration Using a Quadrotor MAV](https://www.researchgate.net/publication/261353707_Vision-Based_Autonomous_Mapping_and_Exploration_Using_a_Quadrotor_MAV) F. Fraundorfer, L. Heng, D. Honegger, G. H. Lee, L. Meier, P. Tanskanen, M. Pollefeys (2012).
@@ -77,6 +85,7 @@
 * [UAV Formation Flight Based on Nonlinear Model Predictive Control](https://www.researchgate.net/publication/258382890_UAV_Formation_Flight_Based_on_Nonlinear_Model_Predictive_Control)Z. Chao, S.L. Zhou, L. Ming, W.G. Zhang (2012). 
 * [Visual tracking and following of a quadrocopter by another quadrocopter](https://ieeexplore.ieee.org/document/6385635) K. E. Wenzel, A. Masselli and A. Zell (2012).
 * [Vision-Controlled Micro Flying Robots From System Design to Autonomous Navigation and Mapping in GPS-Denied Environments](https://www.researchgate.net/publication/261512796_Vision-Controlled_Micro_Flying_Robots_From_System_Design_to_Autonomous_Navigation_and_Mapping_in_GPS-Denied_Environments) D. Scaramuzza, M. C. Achtelik, L. Doitsidis, F. Fraundorfer, E. Kosmatopoulos, A. Martinelli, M. W. Achtelik, M. Chli, S. Chatzichristofis, L. Kneip, D. Gurdan, L. Heng, G. Hee Lee, S. Lynen, L. Meier, M. Pollefeys, A. Renzaglia, R. Siegwart, J. C. Stumpf, P. Tanskanen, C. Troiani, S. Weiss
+
 ### Survey
 * [A Survey on Aerial Swarm Robotics](https://ieeexplore.ieee.org/document/8424838) S. Chung, A. A. Paranjape, P. Dames, S. Shen, V. Kumar (2018).
 * [Distributed Processing Applications for UAV/drones: A Survey](https://www.researchgate.net/publication/267811645_Distributed_Processing_Applications_for_UAVdrones_A_Survey) G. Chmaj, H. Selvaraj (2014).
@@ -108,7 +117,8 @@
 * [Vision-based Control of a Quadrotor for Perching on Lines](https://ieeexplore.ieee.org/document/6907309) K. Mohta, V. Kumar and K. Daniilidis (2014).
 * [A Controller for Autonomous Landing of AR.Drone](http://robotics.fel.cvut.cz/pair14/wp-content/uploads/2014/09/pair14_submission-hrasko.pdf) R. Barták, A. Hraško, D. Obdržálek (2014).
 * [Deep Reinforcement Learning Strategy for UAV Autonomous Landing on a Moving Platform](https://www.semanticscholar.org/paper/A-Deep-Reinforcement-Learning-Strategy-for-UAV-on-a-Rodriguez-Ramos-Sampedro/86d5f469f0f541f0b2223d2d3e80f22fb1d66af7) A. Rodriguez-Ramos, C. Sampedro, H. Bavle, P. D. L. Puente, P. Campoy (2019).
-
+* [Autonomous landing on a moving vehicle with an unmanned aerial vehicle](https://www.researchgate.net/publication/330155244_Autonomous_landing_on_a_moving_vehicle_with_an_unmanned_aerial_vehicle) T. Baca et al (2019).
+ 
 ### Quadrotors applications
 
 * [Quadrocopter Ball Juggling](https://flyingmachinearena.org/wp-content/uploads/2012/fma-publications/QuadrocopterBallJuggling.pdf) M. Muller, Se. Lupashin and Ra. D’Andrea (2012).
