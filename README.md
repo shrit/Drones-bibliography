@@ -66,6 +66,7 @@
 * [The Navigation and Control technology inside the AR.Drone micro UAV](https://www.sciencedirect.com/science/article/pii/S1474667016438188) P.J. Bristeau, F. Callou, D. Vissière, N.Petit (2011).
 * [CAD2RL: Real Single-Image Flight without a Single Real Image](https://arxiv.org/abs/1611.04201) F. Sadeghi, S. Levine (2017).
 * [Learning Monocular Reactive UAV Control in Cluttered Natural Environments](https://arxiv.org/abs/1211.1690) S. Ross, N. Melik-Barkhudarov, K. S. Shankar, A. Wendel, D. Dey, J. A. Bagnell, M. Hebert (2012).
+* [Quadrotor Helicopter Flight Dynamics and Control: Theory and Experiment](https://www.semanticscholar.org/paper/Quadrotor-Helicopter-Flight-Dynamics-and-Control%3A-Homann-Huang/ea719e5f4bde80e20e6e554eebe2a64c6b0df61b) G. M. Homann, H. Huang, S. L. Waslander, C. Tomlin (2007).
 
 ### Swarm of UAV's and UGV's
 ---
