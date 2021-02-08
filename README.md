@@ -33,6 +33,7 @@
 * [Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1807.06613) M. Hüttenrauch, A. Šošić, G. Neumann (2019).
 * [Guided Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1709.06011), M. Hüttenrauch, A. Šošić, G. Neumann (2017).
 * [The influence of limited visual sensing on the Reynolds ﬂocking algorithm](https://infoscience.epfl.ch/record/264152?ln---fr) E. Soria, F. Schiano, D. Floreano (2019).
+* [Vision-based flocking in outdoor environments](https://arxiv.org/abs/2012.01245) F. Schilling, F. Schiano, D. Floreano (2020).
 
 ### Trajectory generation for quadrotors
 ---
