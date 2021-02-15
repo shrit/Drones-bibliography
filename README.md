@@ -1,3 +1,25 @@
+# Bibliography
+
+# Table of contents
+
+* [Books](#Books)
+* [Quadrotor simulation](#quadrotor-simulation)
+* [Quadrotor swarms](#quadrotor-swarm)
+* [Trajectory generation for quadrotors](#trajectory-generation-for-quadrotors)
+* [Design and modeling for quadrotors](#design-and-modeling-for-quadrotors)
+* [Swarm of UAV's and UGV's](#-swarm-of-UAVs-and-UGVs) 
+  * [Using MPC](#using-mpc)
+  * [Vision based](#vision-based)
+* [SLAM](#slam)
+* [Survery](#survey)
+* [Model Predictive Control](#model-predictive-control)
+* [Particle Swarm Optimization](#particle-swarm-optimization)
+* [Positioning Systems](#positioning-system)
+* [Quadrotors landing](#quadrotors-landing)
+* [Quadrotors Applications](#quadrotors-applications)
+
+### Books
+---
 * [Handbook of Unmanned Aerial Vehicles](https://link.springer.com/referencework/10.1007%2F978-90-481-9707-1) K. P. ValavanisGeorge, J. Vachtsevanos (2014).
 
 ### Quadrotor simulation
@@ -79,6 +101,7 @@
 * [Navigation, localization and stabilization of formations of unmanned aerial and ground vehicles](https://www.researchgate.net/publication/261429814_Navigation_localization_and_stabilization_of_formations_of_unmanned_aerial_and_ground_vehicles) M. Saska et al (2013).
 * [Coordination and navigation of heterogeneous MAV–UGV formations localized by a ‘hawk-eye’-like approach under a model predictive control scheme](https://www.semanticscholar.org/paper/Coordination-and-navigation-of-heterogeneous-by-a-a-Saska-Von%C3%A1sek/653e83fab826459a6a1af7c0495716740e234a49) M. Saska, V. Vonásek, T. Krajník, L. Preucil (2014).
 * [Complex manoeuvres of heterogeneous MAV-UGV formations using a model predictive control](https://www.semanticscholar.org/paper/Complex-manoeuvres-of-heterogeneous-MAV-UGV-using-a-Spurn%C3%BD-B%C3%A1ca/45d6a5b0492d163c982b5aef11778b4f106eed7b) V. Spurný, T. Báca, M. Saska (2016).
+
 #### vision based
 ---
 * [A vision-guided autonomous quadrotor in an air-ground multi-robot system](https://www.semanticscholar.org/paper/A-vision-guided-autonomous-quadrotor-in-an-system-Li-Zhang/8b96bd403222b0a6d763c7d07888a346948e2770) W. Li, T. Zhang, K. Kühnlenz (2011).
@@ -129,7 +152,7 @@
 * [Drone-aided Localization in LoRa IoT Networks](https://arxiv.org/abs/2004.03852) V. Delafontaine, F. Schiano, G. Cocco, A. Rusu, D. Floreano (2020).
 * [Visual Tracking and Control of a Quadcopter Using a Stereo Camera System and Inertial Sensors](https://www.researchgate.net/publication/228962857_Visual_Tracking_and_Control_of_a_Quadcopter_Using_a_Stereo_Camera_System_and_Inertial_Sensors) M. Achtelik, T. Zhang, K. Kuhnlenz , M. Buss (2009).
 
-### Quadrotos landing
+### Quadrotors landing
 ---
 * [Vision-based Control of a Quadrotor for Perching on Lines](https://ieeexplore.ieee.org/document/6907309) K. Mohta, V. Kumar and K. Daniilidis (2014).
 * [A Controller for Autonomous Landing of AR.Drone](http://robotics.fel.cvut.cz/pair14/wp-content/uploads/2014/09/pair14_submission-hrasko.pdf) R. Barták, A. Hraško, D. Obdržálek (2014).
