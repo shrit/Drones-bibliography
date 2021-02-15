@@ -7,6 +7,9 @@
 * [SwarmLab: a Matlab Drone Swarm Simulator](https://arxiv.org/abs/2005.02769) E. Soria, F. Schiano, D. Floreano (2020).
 * [Evaluation Platform for Micro Aerial Indoor Swarm Robotics](https://www.researchgate.net/publication/343064227_Evaluation_Platform_for_Micro_Aerial_Indoor_Swarm_Robotics) C. Steup, S. Mostaghim, S. Mai (2016).
 * [OpenUAV: A UAV Testbed for the CPS and Robotics Community](https://www.researchgate.net/publication/327191426_OpenUAV_A_UAV_Testbed_for_the_CPS_and_Robotics_Community) M. Schmittle, A. Lukina, L. Vacek, J. Das, C. P. Buskirk, S. Rees, J. Sztipanovits, R. Grosu, V. Kumar (2018).
+* [AirSim: High-Fidelity Visual and Physical Simulation for Autonomous Vehicles](https://arxiv.org/abs/1705.05065) S. Shah, D. Dey, C. Lovett, A. Kapoor (2017).
+* [Cyberbotics Ltd. Webots™: Professional Mobile Robot Simulation](https://journals.sagepub.com/doi/10.5772/5618) O. Michel (2004).
+* [Design and use paradigms for Gazebo, an open-source multi-robot simulator](https://ieeexplore.ieee.org/document/1389727) N. Koenig, A. Howard (2003).
 
 ### Quadrotor swarms
 ---
@@ -144,4 +147,5 @@
 * [Opportunities and Challenges with Autonomous Micro Aerial Vehicles](https://link.springer.com/chapter/10.1007/978-3-319-29363-9_3) V. Kumar, N. Michael (2016).
 * [Detecting, localizing, and tracking an unknown number of moving targets using a team of mobile robots](https://journals.sagepub.com/doi/10.1177/0278364917709507) P. Dames, Pratap Tokekar, V. Kumar (2017).
 * [The use of unmanned aerial vehicles for an interdisciplinary undergraduate education: Solving quadrotors limitations](https://ieeexplore.ieee.org/document/7044443) C. Molina et al. (2014).
+* [Cooperative quadrocopter ball throwing and catching](https://www.semanticscholar.org/paper/Cooperative-quadrocopter-ball-throwing-and-catching-Ritz-Mueller/6e4f6889b1ee90d9ce7d6b197073f5f7e09b632e) R. Ritz, M. W. Mueller, M. Hehn, R. D'Andrea (2012).
 
