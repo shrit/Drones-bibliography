@@ -42,22 +42,40 @@
 * [Outdoor flocking and formation flight with autonomous aerial robots](https://arxiv.org/abs/1402.3588) Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Norbert Tarcai, Tamás Szörényi, T. Nepusz, T. Vicsek (2014)
 * [Flocking algorithm for autonomous flying robots](https://arxiv.org/abs/1310.3601)Csaba Virágh, Gábor Vásárhelyi, Norbert Tarcai, Tamás Szörényi, Gergő Somorjai, Tamás Nepusz, Tamás Vicsek (2014).
 * [A swarm of flying smartphones](https://ieeexplore.ieee.org/document/7759270/) G. Loianno, Y. Mulgaonkar, C. Brunner, D. Ahuja, A. Ramanandan, M. Chari. S. Diaz, V. Kumar (2016).
-* [Collective motion](https://arxiv.org/abs/1010.5017) T. Vicsek, A. Zafeiris (2012).
 * [Crazyswarm: A large nano-quadcopter swarm](https://www.researchgate.net/publication/318695162_Crazyswarm_A_large_nano-quadcopter_swarm) J. A. Preiss, W. Honig, G. S. Sukhatme, N. Ayanian (2017).
 * [Design of small, safe and robust quadrotor swarms](https://ieeexplore.ieee.org/document/7139491) Y. Mulgaonkar, G. Cross, V. Kumar (2015).
 * [A platform for aerial robotics research and demonstration: The Flying Machine Arena](https://www.sciencedirect.com/science/article/abs/pii/S0957415813002262) S. Lupashin,M. Hehn, M. W. Mueller, A. P. Schoellig, M. Sherback, R. D’Andrea (2014).
-* [Flocks, herds and schools: A distributed behavioral model](https://dl.acm.org/doi/10.1145/37402.37406) C. W. Reynolds (1987).
 * [SFly: Swarm of micro flying robots](https://ieeexplore.ieee.org/document/6386281) M. Achtelik, M. Achtelik, Y. Brunet, M. Chli, S. Chatzichristofis, J. Decotignie, K. Doth, F. Fraundorfer, L. Kneip, D. Gurdan, L. Heng, E. Kosmatopoulos, L. Doitsidis, G. H. Lee, S. Lynen, A. Martinelli, L. Meier, M. Pollefeys, D. Piguet, A. Renzaglia, D. Scaramuzza, R. Siegwart, J. Stumpf, P. Tanskanen, C. Troiani, S. Weiss
 * [Visual Inertial Odometry Swarm: An Autonomous Swarm of Vision-Based Quadrotors](https://ieeexplore.ieee.org/document/8276634) A. Weinstein, A. Cho, G. Loianno, V. Kumar (2018)
+* [Formations of unmanned micro aerial vehicles led by migrating virtual leader](https://ieeexplore.ieee.org/document/7838801)M. Saska, T. Baca and D. Hert (2016).
+
+#### Theory
+
+* [Flocking for Multi-Agent Dynamic Systems:Algorithms and Theory](https://citeseerx.ist.psu.edu/viewdoc/download?doi---10.1.1.121.7027&rep---rep1&type---pdf) Reza Olfati-Saber (2006).
+* [Collective motion](https://arxiv.org/abs/1010.5017) T. Vicsek, A. Zafeiris (2012).
+* [Flocks, herds and schools: A distributed behavioral model](https://dl.acm.org/doi/10.1145/37402.37406) C. W. Reynolds (1987).
+* [The influence of limited visual sensing on the Reynolds ﬂocking algorithm](https://infoscience.epfl.ch/record/264152?ln---fr) E. Soria, F. Schiano, D. Floreano (2019).
 * [Novel Type of Phase Transition in a System of Self-Driven Particles](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.1226) T. Vicsek, A. Czirók, E. Ben-Jacob, I. Cohen, O. Shochet (1995)
+
+#### Using Model Predictive control (MPC)
+
+* [Nonlinear Model Predictive Control for Multi-Micro Aerial Vehicle Robust Collision Avoidance](https://arxiv.org/abs/1703.01164) M. Kamel, J. Alonso-Mora, R. Siegwart, J. Nieto (2017).
+* [Motion planning and control of formations of micro aerial vehicles](https://www.semanticscholar.org/paper/Motion-planning-and-control-of-formations-of-micro-Saska-Kasl/a8b2b317e16e609d0478dbbe339fac2760bda4a4) M. Saska, Z. Kasl, L. Preucil (2014).
+* [Embedded Model Predictive Control of Unmanned Micro Aerial Vehicles](https://www.researchgate.net/publication/307599370_Embedded_Model_Predictive_Control_of_Unmanned_Micro_Aerial_Vehicles) T. Báča, G. Loianno, M. Saska (2016).
+* [Nonlinear Model Predictive Formation Flight](https://ieeexplore.ieee.org/document/5109714) J. Shin and H. J. Kim (2009).
+
+#### Using Particle Swarm Optimization (PSO)
+
+* [Autonomous deployment of swarms of micro-aerial vehicles in cooperative surveillance](https://www.semanticscholar.org/paper/Autonomous-deployment-of-swarms-of-micro-aerial-in-Saska-Chudoba/d05a0cba702ed85540ea0a973f03a6d47a743fe3) M. Saska, J. Chudoba, L. Precil, J. Thomas, G. Loianno, A. Tresnak, V. Vonásek, V. Kumar (2014).
+* [Swarm Distribution and Deployment for CooperativeSurveillance by Micro-Aerial Vehicles](https://www.semanticscholar.org/paper/Swarm-Distribution-and-Deployment-for-Cooperative-Saska-Von%C3%A1sek/8d1f919e90e7dcd600c4b1cfa18ee6c1a765bddb) M. Saska, Vojtech Vonásek, J. Chudoba, Justin Thomas, Giuseppe Loianno, V. Kumar (2016).
+
+#### Using machine learning
+
 * [Learning Vision-based Cohesive Flight in Drone Swarms](https://arxiv.org/abs/1809.00543) F. Schilling, J. Lecoeur, F. Schiano, D. Floreano (2018).
 * [Learning Vision-based Flight in Drone Swarms by Imitation](https://arxiv.org/abs/1908.02999) F. Schilling, J. Lecoeur, F. Schiano, D. Floreano (2019).
-* [Flocking for Multi-Agent Dynamic Systems:Algorithms and Theory](https://citeseerx.ist.psu.edu/viewdoc/download?doi---10.1.1.121.7027&rep---rep1&type---pdf) Reza Olfati-Saber (2006).
-* [Formations of unmanned micro aerial vehicles led by migrating virtual leader](https://ieeexplore.ieee.org/document/7838801)M. Saska, T. Baca and D. Hert (2016).
 * [Fast and In Sync: Periodic Swarm Patterns for Quadrotors](https://arxiv.org/abs/1810.03572) X. Du, C. E. Luis, M. Vukosavljev, A. P. Schoellig
 * [Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1807.06613) M. Hüttenrauch, A. Šošić, G. Neumann (2019).
 * [Guided Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1709.06011), M. Hüttenrauch, A. Šošić, G. Neumann (2017).
-* [The influence of limited visual sensing on the Reynolds ﬂocking algorithm](https://infoscience.epfl.ch/record/264152?ln---fr) E. Soria, F. Schiano, D. Floreano (2019).
 * [Vision-based flocking in outdoor environments](https://arxiv.org/abs/2012.01245) F. Schilling, F. Schiano, D. Floreano (2020).
 
 ### Trajectory generation for quadrotors
@@ -106,7 +124,7 @@
 ---
 * [A vision-guided autonomous quadrotor in an air-ground multi-robot system](https://www.semanticscholar.org/paper/A-vision-guided-autonomous-quadrotor-in-an-system-Li-Zhang/8b96bd403222b0a6d763c7d07888a346948e2770) W. Li, T. Zhang, K. Kühnlenz (2011).
 
-### SLAM
+### Simultaneous localization and mapping (SLAM)
 ---
 * [Onboard IMU and monocular vision based control for MAVs in unknown in- and outdoor environments](https://ieeexplore.ieee.org/document/5980343) M. Achtelik, M. Achtelik, S. Weiss, R. Siegwart (2011).
 * [Vision-Based Autonomous Mapping and Exploration Using a Quadrotor MAV](https://www.researchgate.net/publication/261353707_Vision-Based_Autonomous_Mapping_and_Exploration_Using_a_Quadrotor_MAV) F. Fraundorfer, L. Heng, D. Honegger, G. H. Lee, L. Meier, P. Tanskanen, M. Pollefeys (2012).
@@ -126,18 +144,6 @@
 ---
 * [A Survey on Aerial Swarm Robotics](https://ieeexplore.ieee.org/document/8424838) S. Chung, A. A. Paranjape, P. Dames, S. Shen, V. Kumar (2018).
 * [Distributed Processing Applications for UAV/drones: A Survey](https://www.researchgate.net/publication/267811645_Distributed_Processing_Applications_for_UAVdrones_A_Survey) G. Chmaj, H. Selvaraj (2014).
-
-### Model Predictive control (MPC)
----
-* [Nonlinear Model Predictive Control for Multi-Micro Aerial Vehicle Robust Collision Avoidance](https://arxiv.org/abs/1703.01164) M. Kamel, J. Alonso-Mora, R. Siegwart, J. Nieto (2017).
-* [Motion planning and control of formations of micro aerial vehicles](https://www.semanticscholar.org/paper/Motion-planning-and-control-of-formations-of-micro-Saska-Kasl/a8b2b317e16e609d0478dbbe339fac2760bda4a4) M. Saska, Z. Kasl, L. Preucil (2014).
-* [Embedded Model Predictive Control of Unmanned Micro Aerial Vehicles](https://www.researchgate.net/publication/307599370_Embedded_Model_Predictive_Control_of_Unmanned_Micro_Aerial_Vehicles) T. Báča, G. Loianno, M. Saska (2016).
-* [Nonlinear Model Predictive Formation Flight](https://ieeexplore.ieee.org/document/5109714) J. Shin and H. J. Kim (2009).
-
-### Particle Swarm Optimization (PSO)
----
-* [Autonomous deployment of swarms of micro-aerial vehicles in cooperative surveillance](https://www.semanticscholar.org/paper/Autonomous-deployment-of-swarms-of-micro-aerial-in-Saska-Chudoba/d05a0cba702ed85540ea0a973f03a6d47a743fe3) M. Saska, J. Chudoba, L. Precil, J. Thomas, G. Loianno, A. Tresnak, V. Vonásek, V. Kumar (2014).
-* [Swarm Distribution and Deployment for CooperativeSurveillance by Micro-Aerial Vehicles](https://www.semanticscholar.org/paper/Swarm-Distribution-and-Deployment-for-Cooperative-Saska-Von%C3%A1sek/8d1f919e90e7dcd600c4b1cfa18ee6c1a765bddb) M. Saska, Vojtech Vonásek, J. Chudoba, Justin Thomas, Giuseppe Loianno, V. Kumar (2016).
 
 ### Positioning systems
 ---
