@@ -38,7 +38,7 @@
 * [The GRASP Multiple Micro UAV Testbed](https://citeseerx.ist.psu.edu/viewdoc/download?doi---10.1.1.169.1687&rep---rep1&type---pdf) N. Michael, D. Mellinger, Q. Lindsey, V. Kumar (2010).
 * [Towards A Swarm of Agile Micro Quadrotors](http://roboticsproceedings.org/rss08/p28.pdf) A. Kushleyev, D. Mellinger, V. Kumar (2013).
 * [Towards Open-Source , Printable Pico-Quadrotors](https://www.semanticscholar.org/paper/Towards-Open-Source-%2C-Printable-Pico-Quadrotors-Mulgaonkar-Kumar/b1575b2293d6933cd8f0cc8e828af4418d707f89) Y. Mulgaonkar, V. Kumar (2014).
-* [Optimized flocking of autonomous drones in confined environments](https://robotics.sciencemag.org/content/3/20/eaat3536)G. Vásárhelyi, C. Virágh, G. Somorjai, T. Nepusz, A. E. Eiben, T. Vicsek (2018).
+* [Optimized flocking of autonomous drones in confined environments](https://robotics.sciencemag.org/content/3/20/eaat3536)G. Vásárhelyi, [Youtube](https://www.youtube.com/watch?v=E4XpyG4eMKE), [Code](https://github.com/csviragh/robotsim) (2018).
 * [Outdoor flocking and formation flight with autonomous aerial robots](https://arxiv.org/abs/1402.3588) Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Norbert Tarcai, Tamás Szörényi, T. Nepusz, T. Vicsek (2014)
 * [Flocking algorithm for autonomous flying robots](https://arxiv.org/abs/1310.3601)Csaba Virágh, Gábor Vásárhelyi, Norbert Tarcai, Tamás Szörényi, Gergő Somorjai, Tamás Nepusz, Tamás Vicsek (2014).
 * [A swarm of flying smartphones](https://ieeexplore.ieee.org/document/7759270/) G. Loianno, Y. Mulgaonkar, C. Brunner, D. Ahuja, A. Ramanandan, M. Chari. S. Diaz, V. Kumar (2016).
@@ -111,6 +111,7 @@
 * [CAD2RL: Real Single-Image Flight without a Single Real Image](https://arxiv.org/abs/1611.04201) F. Sadeghi, S. Levine (2017).
 * [Learning Monocular Reactive UAV Control in Cluttered Natural Environments](https://arxiv.org/abs/1211.1690) S. Ross, N. Melik-Barkhudarov, K. S. Shankar, A. Wendel, D. Dey, J. A. Bagnell, M. Hebert (2012).
 * [Quadrotor Helicopter Flight Dynamics and Control: Theory and Experiment](https://www.semanticscholar.org/paper/Quadrotor-Helicopter-Flight-Dynamics-and-Control%3A-Homann-Huang/ea719e5f4bde80e20e6e554eebe2a64c6b0df61b) G. M. Homann, H. Huang, S. L. Waslander, C. Tomlin (2007).
+* [A 64mW DNN-based Visual Navigation Engine for Autonomous Nano-Drones](https://arxiv.org/abs/1805.01831) D. Palossi et al (2019).
 
 ### Swarm of UAV's and UGV's
 ---
