@@ -88,6 +88,7 @@
 * [Estimation, Control, and Planning for Aggressive Flight With a Small Quadrotor With a Single Camera and IMU](https://ieeexplore.ieee.org/document/7762111) G. Loianno, C. Brunner, G. McGrath and V. Kumar (2017).
 * [A computationally efficient motion primitive for quadrocoptertrajectory generation](https://flyingmachinearena.org/wp-content/uploads/mueTRO15.pdf) M.W. Mueller, M. Hehn, R. D’Andrea (2015).
 * [A computationally efficient algorithm for state-to-state quadrocopter trajectory generation and feasibility verification](https://www.semanticscholar.org/paper/A-computationally-efficient-algorithm-for-and-Mueller-Hehn/07dc99fa6e8c6a28e3b0ed88260fe015a8ba034f) M. W. Mueller, Markus Hehn, R. D'Andrea (2013).
+* [Polynomial Trajectory Planning for Aggressive Quadrotor Flight in Dense Indoor Environment](https://dspace.mit.edu/handle/1721.1/106840) C.A. Richter, et al (2013).
 
 ### Design and modeling for quadrotors
 ---
