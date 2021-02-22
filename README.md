@@ -5,6 +5,10 @@
 * [Books](#Books)
 * [Quadrotor simulation](#quadrotor-simulation)
 * [Quadrotor swarms](#quadrotor-swarm)
+  * [Thoery](#theory)
+  * [Using Model Predictive Control](#using-model-predictive-control)
+  * [Using Particle Swarm Optimization](#using-particle-swarm-optimization)
+  * [Using Machine learning](#using-machine-learning)
 * [Trajectory generation for quadrotors](#trajectory-generation-for-quadrotors)
 * [Design and modeling for quadrotors](#design-and-modeling-for-quadrotors)
 * [Swarm of UAV's and UGV's](#-swarm-of-UAVs-and-UGVs) 
@@ -15,6 +19,7 @@
 * [Model Predictive Control](#model-predictive-control)
 * [Particle Swarm Optimization](#particle-swarm-optimization)
 * [Positioning Systems](#positioning-system)
+* [Failure mitigation in quadrotors](#failure-mitigation-in-quadrotors)
 * [Quadrotors landing](#quadrotors-landing)
 * [Quadrotors Applications](#quadrotors-applications)
 
@@ -159,7 +164,7 @@
 * [Drone-aided Localization in LoRa IoT Networks](https://arxiv.org/abs/2004.03852) V. Delafontaine, F. Schiano, G. Cocco, A. Rusu, D. Floreano (2020).
 * [Visual Tracking and Control of a Quadcopter Using a Stereo Camera System and Inertial Sensors](https://www.researchgate.net/publication/228962857_Visual_Tracking_and_Control_of_a_Quadcopter_Using_a_Stereo_Camera_System_and_Inertial_Sensors) M. Achtelik, T. Zhang, K. Kuhnlenz , M. Buss (2009).
 
-###
+### Failure mitigation in quadrotors.
 
 * [Critical subsystem failure mitigation in an indoor UAV testbed](https://ieeexplore.ieee.org/document/6385910) M. W. Mueller, R. D’Andrea (2012).
 * [Relaxed hover solutions for multicopters: application to algorithmic redundancy and novel vehicles](https://www.semanticscholar.org/paper/Relaxed-hover-solutions-for-multicopters%3A-to-and-Mueller-D%27Andrea/686c8e86208f0b2a2a0d7c1922db54b12ca1f2fa) M. W. Mueller, R. D’Andrea (2015).
