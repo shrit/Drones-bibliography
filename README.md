@@ -37,7 +37,6 @@
 ---
 * [The GRASP Multiple Micro UAV Testbed](https://citeseerx.ist.psu.edu/viewdoc/download?doi---10.1.1.169.1687&rep---rep1&type---pdf) N. Michael, D. Mellinger, Q. Lindsey, V. Kumar (2010).
 * [Towards A Swarm of Agile Micro Quadrotors](http://roboticsproceedings.org/rss08/p28.pdf) A. Kushleyev, D. Mellinger, V. Kumar (2013).
-* [Towards Open-Source , Printable Pico-Quadrotors](https://www.semanticscholar.org/paper/Towards-Open-Source-%2C-Printable-Pico-Quadrotors-Mulgaonkar-Kumar/b1575b2293d6933cd8f0cc8e828af4418d707f89) Y. Mulgaonkar, V. Kumar (2014).
 * [Optimized flocking of autonomous drones in confined environments](https://robotics.sciencemag.org/content/3/20/eaat3536)G. Vásárhelyi, [Youtube](https://www.youtube.com/watch?v=E4XpyG4eMKE), [Code](https://github.com/csviragh/robotsim) (2018).
 * [Outdoor flocking and formation flight with autonomous aerial robots](https://arxiv.org/abs/1402.3588) Gábor Vásárhelyi, Csaba Virágh, Gergő Somorjai, Norbert Tarcai, Tamás Szörényi, T. Nepusz, T. Vicsek (2014)
 * [Flocking algorithm for autonomous flying robots](https://arxiv.org/abs/1310.3601)Csaba Virágh, Gábor Vásárhelyi, Norbert Tarcai, Tamás Szörényi, Gergő Somorjai, Tamás Nepusz, Tamás Vicsek (2014).
@@ -88,7 +87,6 @@
 * [Estimation, Control, and Planning for Aggressive Flight With a Small Quadrotor With a Single Camera and IMU](https://ieeexplore.ieee.org/document/7762111) G. Loianno, C. Brunner, G. McGrath and V. Kumar (2017).
 * [A computationally efficient motion primitive for quadrocoptertrajectory generation](https://flyingmachinearena.org/wp-content/uploads/mueTRO15.pdf) M.W. Mueller, M. Hehn, R. D’Andrea (2015).
 * [A computationally efficient algorithm for state-to-state quadrocopter trajectory generation and feasibility verification](https://www.semanticscholar.org/paper/A-computationally-efficient-algorithm-for-and-Mueller-Hehn/07dc99fa6e8c6a28e3b0ed88260fe015a8ba034f) M. W. Mueller, Markus Hehn, R. D'Andrea (2013).
-* [Polynomial Trajectory Planning for Aggressive Quadrotor Flight in Dense Indoor Environment](https://dspace.mit.edu/handle/1721.1/106840) C.A. Richter, et al (2013).
 
 ### Design and modeling for quadrotors
 ---
@@ -113,6 +111,7 @@
 * [Learning Monocular Reactive UAV Control in Cluttered Natural Environments](https://arxiv.org/abs/1211.1690) S. Ross, N. Melik-Barkhudarov, K. S. Shankar, A. Wendel, D. Dey, J. A. Bagnell, M. Hebert (2012).
 * [Quadrotor Helicopter Flight Dynamics and Control: Theory and Experiment](https://www.semanticscholar.org/paper/Quadrotor-Helicopter-Flight-Dynamics-and-Control%3A-Homann-Huang/ea719e5f4bde80e20e6e554eebe2a64c6b0df61b) G. M. Homann, H. Huang, S. L. Waslander, C. Tomlin (2007).
 * [A 64mW DNN-based Visual Navigation Engine for Autonomous Nano-Drones](https://arxiv.org/abs/1805.01831) D. Palossi et al (2019).
+* [Towards Open-Source , Printable Pico-Quadrotors](https://www.semanticscholar.org/paper/Towards-Open-Source-%2C-Printable-Pico-Quadrotors-Mulgaonkar-Kumar/b1575b2293d6933cd8f0cc8e828af4418d707f89) Y. Mulgaonkar, V. Kumar (2014).
 
 ### Swarm of UAV's and UGV's
 ---
@@ -159,6 +158,12 @@
 * [A robot self-localization system using one-way ultra-wideband communication  ](https://www.semanticscholar.org/paper/A-robot-self-localization-system-using-one-way-Ledergerber-Hamer/b3e7132192d3131a9ff4ee21833eda574197bbe3) A. Ledergerber, M. Hamer, R. D'Andrea (2015).
 * [Drone-aided Localization in LoRa IoT Networks](https://arxiv.org/abs/2004.03852) V. Delafontaine, F. Schiano, G. Cocco, A. Rusu, D. Floreano (2020).
 * [Visual Tracking and Control of a Quadcopter Using a Stereo Camera System and Inertial Sensors](https://www.researchgate.net/publication/228962857_Visual_Tracking_and_Control_of_a_Quadcopter_Using_a_Stereo_Camera_System_and_Inertial_Sensors) M. Achtelik, T. Zhang, K. Kuhnlenz , M. Buss (2009).
+
+###
+
+* [Critical subsystem failure mitigation in an indoor UAV testbed](https://ieeexplore.ieee.org/document/6385910) M. W. Mueller, R. D’Andrea (2012).
+* [Relaxed hover solutions for multicopters: application to algorithmic redundancy and novel vehicles](https://www.semanticscholar.org/paper/Relaxed-hover-solutions-for-multicopters%3A-to-and-Mueller-D%27Andrea/686c8e86208f0b2a2a0d7c1922db54b12ca1f2fa) M. W. Mueller, R. D’Andrea (2015).
+* [Stability and control of a quadrocopter despite the complete loss of one, two, or three propellers](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjJ34a4vv3uAhUozoUKHcmxD3IQFjAEegQIAxAD&url=http%3A%2F%2Fhiperlab.berkeley.edu%2Fwp-content%2Fuploads%2F2018%2F05%2F2014_StabilityAndControlOfAQuadrocopterDespiteTheCompleteLossOfOneTwoOrThreePropellers.pdf&usg=AOvVaw2KGp_0i8u7wQJG-b-kCUs6) [Youtube](https://www.youtube.com/watch?v=t369aSInq-E) M. W. Mueller, R. D’Andrea (2014).
 
 ### Quadrotors landing
 ---
