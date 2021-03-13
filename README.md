@@ -51,7 +51,6 @@
 * [A platform for aerial robotics research and demonstration: The Flying Machine Arena](https://www.sciencedirect.com/science/article/abs/pii/S0957415813002262) S. Lupashin,M. Hehn, M. W. Mueller, A. P. Schoellig, M. Sherback, R. D’Andrea (2014).
 * [SFly: Swarm of micro flying robots](https://ieeexplore.ieee.org/document/6386281) M. Achtelik, M. Achtelik, Y. Brunet, M. Chli, S. Chatzichristofis, J. Decotignie, K. Doth, F. Fraundorfer, L. Kneip, D. Gurdan, L. Heng, E. Kosmatopoulos, L. Doitsidis, G. H. Lee, S. Lynen, A. Martinelli, L. Meier, M. Pollefeys, D. Piguet, A. Renzaglia, D. Scaramuzza, R. Siegwart, J. Stumpf, P. Tanskanen, C. Troiani, S. Weiss
 * [Visual Inertial Odometry Swarm: An Autonomous Swarm of Vision-Based Quadrotors](https://ieeexplore.ieee.org/document/8276634) A. Weinstein, A. Cho, G. Loianno, V. Kumar (2018)
-* [Formations of unmanned micro aerial vehicles led by migrating virtual leader](https://ieeexplore.ieee.org/document/7838801)M. Saska, T. Baca and D. Hert (2016).
 
 #### Theory
 
@@ -67,6 +66,7 @@
 * [Motion planning and control of formations of micro aerial vehicles](https://www.semanticscholar.org/paper/Motion-planning-and-control-of-formations-of-micro-Saska-Kasl/a8b2b317e16e609d0478dbbe339fac2760bda4a4) M. Saska, Z. Kasl, L. Preucil (2014).
 * [Embedded Model Predictive Control of Unmanned Micro Aerial Vehicles](https://www.researchgate.net/publication/307599370_Embedded_Model_Predictive_Control_of_Unmanned_Micro_Aerial_Vehicles) T. Báča, G. Loianno, M. Saska (2016).
 * [Nonlinear Model Predictive Formation Flight](https://ieeexplore.ieee.org/document/5109714) J. Shin and H. J. Kim (2009).
+* [Formations of unmanned micro aerial vehicles led by migrating virtual leader](https://ieeexplore.ieee.org/document/7838801)M. Saska, T. Baca and D. Hert (2016).
 
 #### Using Particle Swarm Optimization (PSO)
 
