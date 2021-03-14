@@ -54,7 +54,7 @@
 
 #### Theory
 
-* [Flocking for Multi-Agent Dynamic Systems:Algorithms and Theory](https://citeseerx.ist.psu.edu/viewdoc/download?doi---10.1.1.121.7027&rep---rep1&type---pdf) Reza Olfati-Saber (2006).
+* [Flocking for Multi-Agent Dynamic Systems:Algorithms and Theory](https://authors.library.caltech.edu/28030/1/flocking-tr04-005.pdf) Reza Olfati-Saber (2006).
 * [Collective motion](https://arxiv.org/abs/1010.5017) T. Vicsek, A. Zafeiris (2012).
 * [Flocks, herds and schools: A distributed behavioral model](https://dl.acm.org/doi/10.1145/37402.37406) C. W. Reynolds (1987).
 * [The influence of limited visual sensing on the Reynolds ﬂocking algorithm](https://infoscience.epfl.ch/record/264152?ln---fr) E. Soria, F. Schiano, D. Floreano (2019).
