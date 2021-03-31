@@ -94,6 +94,11 @@
 * [Estimation, Control, and Planning for Aggressive Flight With a Small Quadrotor With a Single Camera and IMU](https://ieeexplore.ieee.org/document/7762111) G. Loianno, C. Brunner, G. McGrath and V. Kumar (2017).
 * [A computationally efficient motion primitive for quadrocoptertrajectory generation](https://flyingmachinearena.org/wp-content/uploads/mueTRO15.pdf) M.W. Mueller, M. Hehn, R. D’Andrea (2015).
 * [A computationally efficient algorithm for state-to-state quadrocopter trajectory generation and feasibility verification](https://www.semanticscholar.org/paper/A-computationally-efficient-algorithm-for-and-Mueller-Hehn/07dc99fa6e8c6a28e3b0ed88260fe015a8ba034f) M. W. Mueller, Markus Hehn, R. D'Andrea (2013).
+* [Mixed integer programming for multi-vehicle
+path-planning](https://www.researchgate.net/publication/240120004_Mixed_integer_programming_for_multi-vehicle_path-planning)
+T. Schouweaaars (2001).
+* [Multi-vehicle path planning for non-line of sight communication ](https://www.semanticscholar.org/paper/Multi-vehicle-path-planning-for-non-line-of-sight-Schouwenaars-Feron/cf69533aa757872a4af5b1bfbcf7a451603630ae)
+T. Schouweaaars (2006).
 
 ### Design and modeling for quadrotors
 ---
