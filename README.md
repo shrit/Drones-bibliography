@@ -102,6 +102,10 @@ T. Schouweaaars (2006).
 
 ### Design and modeling for quadrotors
 ---
+* [Autonomous helicopter control usingreinforcement learning policy search
+methods](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=
+&ved=2ahUKEwiHv8WwyOfvAhVQTBoKHcyeDjUQFjACegQIAxAD&url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.465.8751%26rep%3Drep1%26type%3Dpdf&usg=AOvVaw3hWJFw8G9y_XLn6OP0Wkq8)
+J.A Bagnell, J. G. Schneider (2001).
 * [Neuroflight: next generation flight control firmware](https://hdl.handle.net/2144/41205) W. Koch, R. Mancuso, A. Bestavros (2019).
 * [Control of a Quadrotor with Reinforcement Learning](https://arxiv.org/abs/1707.05110) J.Hwangbo, I. Sa, R. Siegwart, M. Hutter (2017).
 * [Reinforcement Learning for UAV Attitude Control](https://arxiv.org/abs/1804.04154) W. Koch, R. Mancuso, R. West, A. Bestavros (2018).
