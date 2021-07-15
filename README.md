@@ -53,6 +53,8 @@
 * [SFly: Swarm of micro flying robots](https://ieeexplore.ieee.org/document/6386281) M. Achtelik et al. (2012).
 * [Visual Inertial Odometry Swarm: An Autonomous Swarm of Vision-Based Quadrotors](https://ieeexplore.ieee.org/document/8276634) A. Weinstein, A. Cho, G. Loianno, V. Kumar (2018)
 * [Fast and In Sync: Periodic Swarm Patterns for Quadrotors](https://arxiv.org/abs/1810.03572) X. Du, C. E. Luis, M. Vukosavljev, A. P. Schoellig (2018).
+* [Generation of collision-free trajectories for a quadrocopter fleet: A sequential convex programming approach](https://flyingmachinearena.org/wp-content/publications/2012/AugugliaroIROS2012.pdf)F. Augugliaro, A. P. Schoellig and R. D'Andrea (2012).
+
 #### Theory
 
 * [Flocking for Multi-Agent Dynamic Systems:Algorithms and Theory](https://authors.library.caltech.edu/28030/1/flocking-tr04-005.pdf) Reza Olfati-Saber (2006).
