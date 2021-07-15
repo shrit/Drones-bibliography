@@ -50,9 +50,9 @@
 * [Crazyswarm: A large nano-quadcopter swarm](https://www.researchgate.net/publication/318695162_Crazyswarm_A_large_nano-quadcopter_swarm) J. A. Preiss, W. Honig, G. S. Sukhatme, N. Ayanian (2017).
 * [Design of small, safe and robust quadrotor swarms](https://ieeexplore.ieee.org/document/7139491) Y. Mulgaonkar, G. Cross, V. Kumar (2015).
 * [A platform for aerial robotics research and demonstration: The Flying Machine Arena](https://www.sciencedirect.com/science/article/abs/pii/S0957415813002262) S. Lupashin,M. Hehn, M. W. Mueller, A. P. Schoellig, M. Sherback, R. D’Andrea (2014).
-* [SFly: Swarm of micro flying robots](https://ieeexplore.ieee.org/document/6386281) M. Achtelik, M. Achtelik, Y. Brunet, M. Chli, S. Chatzichristofis, J. Decotignie, K. Doth, F. Fraundorfer, L. Kneip, D. Gurdan, L. Heng, E. Kosmatopoulos, L. Doitsidis, G. H. Lee, S. Lynen, A. Martinelli, L. Meier, M. Pollefeys, D. Piguet, A. Renzaglia, D. Scaramuzza, R. Siegwart, J. Stumpf, P. Tanskanen, C. Troiani, S. Weiss
+* [SFly: Swarm of micro flying robots](https://ieeexplore.ieee.org/document/6386281) M. Achtelik et al. (2012).
 * [Visual Inertial Odometry Swarm: An Autonomous Swarm of Vision-Based Quadrotors](https://ieeexplore.ieee.org/document/8276634) A. Weinstein, A. Cho, G. Loianno, V. Kumar (2018)
-
+* [Fast and In Sync: Periodic Swarm Patterns for Quadrotors](https://arxiv.org/abs/1810.03572) X. Du, C. E. Luis, M. Vukosavljev, A. P. Schoellig (2018).
 #### Theory
 
 * [Flocking for Multi-Agent Dynamic Systems:Algorithms and Theory](https://authors.library.caltech.edu/28030/1/flocking-tr04-005.pdf) Reza Olfati-Saber (2006).
@@ -80,7 +80,6 @@
 
 * [Learning Vision-based Cohesive Flight in Drone Swarms](https://arxiv.org/abs/1809.00543) F. Schilling, J. Lecoeur, F. Schiano, D. Floreano (2018).
 * [Learning Vision-based Flight in Drone Swarms by Imitation](https://arxiv.org/abs/1908.02999) F. Schilling, J. Lecoeur, F. Schiano, D. Floreano (2019).
-* [Fast and In Sync: Periodic Swarm Patterns for Quadrotors](https://arxiv.org/abs/1810.03572) X. Du, C. E. Luis, M. Vukosavljev, A. P. Schoellig
 * [Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1807.06613) M. Hüttenrauch, A. Šošić, G. Neumann (2019).
 * [Guided Deep Reinforcement Learning for Swarm Systems](https://arxiv.org/abs/1709.06011), M. Hüttenrauch, A. Šošić, G. Neumann (2017).
 * [Vision-based flocking in outdoor environments](https://arxiv.org/abs/2012.01245) F. Schilling, F. Schiano, D. Floreano (2020).
