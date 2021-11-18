@@ -88,6 +88,7 @@
 
 ### Trajectory generation for quadrotors
 ---
+* [Minimum snap trajectory generation and control for quadrotors](https://ieeexplore.ieee.org/document/5980409) D. Mellinger and V. Kumar (2011).
 * [Real-Time Trajectory Generation for Quadrocopters](https://ieeexplore.ieee.org/document/7128399) M. Hehn and R. D’Andrea (2015).
 * [Trajectory Design and Control for Aggressive Formation Flight with Quadrotors](http://www.isrr-2011.org/ISRR-2011/Program_files/Papers/Turpin-ISRR-2011.pdf) M. Turpin, N. Michael, V. Kumar (2012).
 * [Quadrocopter Trajectory Generation and Control](https://flyingmachinearena.org/wp-content/publications/2011/hehn_dandrea_trajectory_generation_control.pdf) M. Hehn, R. D’Andrea (2011).
